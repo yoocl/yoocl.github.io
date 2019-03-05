@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>捷径-workflow【微信公众号.音.视.图下载】规则</title>
+      <link href="/gz-gzhyst.html"/>
+      <url>/gz-gzhyst.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/gz-gzhyst/0.png" alt=""></p><a id="more"></a><blockquote><p><strong>最近有个朋友问我有没有可以下载微信公众号文章封面图片的规则或者js，这个我倒是真没有。刚好这两天有空我寻思干脆就写一个吧。正好也要玩玩我许久没有碰过的 捷径 - workflow 了，可能下载文章封面图片的需求的朋友不是很多。于是小良就吧 视频下载、音片下载、图片批量下载、这些都一起写上了</strong></p></blockquote><hr><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这了<a href="/tags/规则/">规则</a> 所指的是运行在 <strong>workflow</strong> <strong>捷径</strong> <strong>快捷指令</strong> App上的。如果你还没有安装，请到 <strong>App Store</strong>（苹果应用商店）搜索安装。　</p></blockquote><h1 id="规则介绍"><a href="#规则介绍" class="headerlink" title="规则介绍"></a><strong>规则介绍</strong></h1><blockquote><p>本规则采用官方api接口所制作<br>　<br>支持微信公众号文章中的视频下载<br>支持微信公众号文章中的音频下载<br>支持微信公众号文章中的图片批量下载<br>支持微信公众号文章的封面图片下载</p></blockquote><h1 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a><strong>使用说明</strong></h1><blockquote><p>复制公众号文章的链接后运行规则即可，下载完成后会自动保存到你的手机相册里。</p></blockquote><h1 id="视频演示"><a href="#视频演示" class="headerlink" title="视频演示"></a><strong>视频演示</strong></h1><blockquote><p><video id="video" controls preload="none" width="100%" poster="https://github.com/yoocl/material/raw/master/img/gz-gzhyst/0.png"><br>      <source id="mp4" src="http://t.cn/EISKr61" type="video/mp4"><br></video><br>　<br>视频地址：<a href="http://t.cn/EISKr61" target="_blank" rel="noopener">http://t.cn/EISKr61</a></p></blockquote><h1 id="规则预览"><a href="#规则预览" class="headerlink" title="规则预览"></a><strong>规则预览</strong></h1><blockquote><p><img src="https://github.com/yoocl/material/raw/master/img/gz-gzhyst/1.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/gz-gzhyst/2.png" alt=""></p></blockquote><h1 id="获取安装"><a href="#获取安装" class="headerlink" title="获取安装"></a><strong>获取安装</strong></h1><blockquote><ol><li>捷径直连：<a href="https://www.icloud.com/shortcuts/cd79f8bf63eb4023a447eba5ba1624e2" target="_blank" rel="noopener">https://www.icloud.com/shortcuts/cd79f8bf63eb4023a447eba5ba1624e2</a></li><li>可直接到小良网站获取：<a href="https://ae85.cn/gz.html" target="_blank" rel="noopener">https://ae85.cn/gz.html</a></li><li>也可以运行 <a href="/gz-gxq.html">小良-更新器</a> 规则进行添加。</li><li>还可以到 js版 <a href="/js-gxq.html">小良-更新器</a> 进行添加。</li><li>也可以直接复制下面链接到自带浏览器打开(workflow和捷径通用)<blockquote><p><a href="workflow://import-workflow/?url=https%3A%2F%2Fgitee.com%2Fyao07%2Fupdate_device%2Fraw%2Fmaster%2F%25E8%25A7%2584%25E5%2588%2599%2Fgzhyst.wflow&amp;name=%E5%85%AC%E4%BC%97%E5%8F%B7.%E9%9F%B3.%E8%A7%86.%E5%9B%BE%E4%B8%8B%E8%BD%BD" target="_blank" rel="noopener">workflow://import-workflow/?url=https%3A%2F%2Fgitee.com%2Fyao07%2Fupdate_device%2Fraw%2Fmaster%2F%25E8%25A7%2584%25E5%2588%2599%2Fgzhyst.wflow&amp;name=%E5%85%AC%E4%BC%97%E5%8F%B7.%E9%9F%B3.%E8%A7%86.%E5%9B%BE%E4%B8%8B%E8%BD%BD</a></p></blockquote></li></ol></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 规则 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> workflow </tag>
+            
+            <tag> 捷径 </tag>
+            
+            <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【js脚本】Flex 3 补丁管理 更新</title>
       <link href="/js-flex3.html"/>
       <url>/js-flex3.html</url>
@@ -252,11 +283,11 @@
       
         <tags>
             
-            <tag> 更新器 </tag>
-            
             <tag> js脚本 </tag>
             
             <tag> jsbox </tag>
+            
+            <tag> 更新器 </tag>
             
             <tag> pin </tag>
             
