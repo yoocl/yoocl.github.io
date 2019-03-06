@@ -4,6 +4,43 @@
   
     
     <entry>
+      <title>DJ多多音乐下载 | 规则、补丁：支持高品、无损</title>
+      <link href="/gz-djdd.html"/>
+      <url>/gz-djdd.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/gz-djdd/0.png" alt=""></p><a id="more"></a><blockquote><p><strong>昨天发布的文章中有个截图中有dj多多下载，结果又有一大波朋友来和小良要dj多多规则。这个规则好像是我一年前写的。没有分享出去，小良偶尔也会用一下，至今都没有失效过。不过有点遗憾的是规则只能下载低音质的。不过如果你是越狱手机的话还是有办法下载高音质和无损的，利用的是Flex 3补丁破解。</strong></p></blockquote><hr><h1 id="DJ多多下载-规则"><a href="#DJ多多下载-规则" class="headerlink" title="DJ多多下载-规则"></a><strong>DJ多多下载-规则</strong></h1><p><img src="https://github.com/yoocl/material/raw/master/img/gz-djdd/1.png" alt=""></p><p>规则这里就不过多说了，相信关注小良朋友应该都会用了。<br>无非就是复制分享链接运行规则即可。<br>如果有不了解的可以看下面的操作视频。</p><blockquote><p><strong>获取安装</strong><br><br></p><ol><li>捷径直连：<a href="https://www.icloud.com/shortcuts/ea3b112335964f939f84974930f4bf12" target="_blank" rel="noopener">https://www.icloud.com/shortcuts/ea3b112335964f939f84974930f4bf12</a></li><li>可直接到小良网站获取：<a href="https://ae85.cn/gz.html" target="_blank" rel="noopener">https://ae85.cn/gz.html</a></li><li>也可以运行 <a href="/gz-gxq.html">小良-更新器</a> 规则进行添加。</li><li>还可以到 js版 <a href="/js-gxq.html">小良-更新器</a> 进行添加。</li><li>也可以直接复制下面链接到自带浏览器打开(workflow和捷径通用)<blockquote><p><a href="workflow://import-workflow/?url=https%3A%2F%2Fgitee.com%2Fyao07%2Fupdate_device%2Fraw%2Fmaster%2F%25E8%25A7%2584%25E5%2588%2599%2FDJduoduo.wflow&amp;name=Dj%E5%A4%9A%E5%A4%9A%E4%B8%8B%E8%BD%BD" target="_blank" rel="noopener">workflow://import-workflow/?url=https%3A%2F%2Fgitee.com%2Fyao07%2Fupdate_device%2Fraw%2Fmaster%2F%25E8%25A7%2584%25E5%2588%2599%2FDJduoduo.wflow&amp;name=Dj%E5%A4%9A%E5%A4%9A%E4%B8%8B%E8%BD%BD</a></p></blockquote></li></ol></blockquote><font color="#f40" size="4">注：规则暂不支持高品，无损，下载。</font><h1 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a><strong>视频教程</strong></h1><blockquote><p><video id="video" controls preload="none" width="100%" poster="https://github.com/yoocl/material/raw/master/img/gz-djdd/0.png"><br>      <source id="mp4" src="http://t.cn/EIjO2Rj" type="video/mp4"><br></video><br>　<br>视频地址：<a href="http://t.cn/EIjO2Rj" target="_blank" rel="noopener">http://t.cn/EIjO2Rj</a></p></blockquote><h1 id="DJ多多下载-补丁"><a href="#DJ多多下载-补丁" class="headerlink" title="DJ多多下载-补丁"></a><strong>DJ多多下载-补丁</strong></h1><p><img src="https://github.com/yoocl/material/raw/master/img/gz-djdd/2.png" alt=""></p><p>补丁方法需要手机越狱才行。<br>利用Flex 3补丁可以下载高品音质和无损品质。</p><h1 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a><strong>使用说明</strong></h1><blockquote><p>1、用小良编写的 <a href="/js-flex3.html">Flex 3 补丁管理</a> 脚本，到云端找到 <a href="">DJ多多·SVIP破解补丁</a> 添加导出到（路径：<a href="">/var/mobile/Library/Application Support/Flex3</a>）把 <a href="">patches.plist</a> 替换掉或者你自己合成到你先有的补丁中。（ps：如果不会请点击这<a href="/js-flex3.html">【js脚本】Flex 3 补丁管理</a>）<br>　<br>2、关掉 <a href="">Flex 3</a> 后台。 重新打开<a href="">Flex 3</a> 看看开关打开没有。然后就可以打开 <a href="">DJ多多</a> App，愉快的缓存你想要的音乐及品质歌曲了。<br>　<br>3、导出音乐文件到播放器或放到车载U盘中。用 <a href="">Filza</a> 文件管理器 – 点击中间的 <strong>收藏(★图标)</strong> – 点击最下面的 <strong>App管理器</strong> – 直接搜索 <strong>dj</strong> – 依次进入到 <a href="">/Documents/LocalMusic</a> 然后就可以看到缓存的音乐文件了。<br><br></p><font color="#f40" size="4">如果上面文字看得不是很懂请看上面视频教程。</font><br><br><br><font color="#f40" size="4">注意：如果 <a href="/js-flex3.html">Flex 3 补丁管理</a> 脚本在使用过程中出现问题，删掉此脚本，清理你jsbox缓存，重新到更新器获取脚本（ps：昨天有朋友导出 <a href="">patches.plist</a> 文件替换后没反映，这个就脚本的问题，请安装此方法操作一次！）</font></blockquote><p><img src="https://github.com/yoocl/material/raw/master/img/gz-djdd/3.png" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 规则 </category>
+          
+          <category> 补丁 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> workflow </tag>
+            
+            <tag> 快捷指令 </tag>
+            
+            <tag> 捷径 </tag>
+            
+            <tag> 规则 </tag>
+            
+            <tag> Flex </tag>
+            
+            <tag> 补丁 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>捷径-workflow【微信公众号.音.视.图下载】规则</title>
       <link href="/gz-gzhyst.html"/>
       <url>/gz-gzhyst.html</url>
@@ -22,11 +59,11 @@
             
             <tag> workflow </tag>
             
+            <tag> 快捷指令 </tag>
+            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
-            
-            <tag> 快捷指令 </tag>
             
         </tags>
       
@@ -46,16 +83,18 @@
           
           <category> 脚本 </category>
           
+          <category> 补丁 </category>
+          
       </categories>
       
       
         <tags>
             
-            <tag> js脚本 </tag>
-            
             <tag> Flex </tag>
             
             <tag> 补丁 </tag>
+            
+            <tag> js脚本 </tag>
             
         </tags>
       
@@ -283,11 +322,11 @@
       
         <tags>
             
+            <tag> 更新器 </tag>
+            
             <tag> js脚本 </tag>
             
             <tag> jsbox </tag>
-            
-            <tag> 更新器 </tag>
             
             <tag> pin </tag>
             
@@ -316,11 +355,11 @@
             
             <tag> workflow </tag>
             
-            <tag> 更新器 </tag>
-            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 更新器 </tag>
             
         </tags>
       
