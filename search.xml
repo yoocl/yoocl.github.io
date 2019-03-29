@@ -51,6 +51,10 @@
       
         <tags>
             
+            <tag> Flex </tag>
+            
+            <tag> 补丁 </tag>
+            
             <tag> workflow </tag>
             
             <tag> 快捷指令 </tag>
@@ -58,10 +62,6 @@
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
-            
-            <tag> Flex </tag>
-            
-            <tag> 补丁 </tag>
             
         </tags>
       
@@ -382,13 +382,13 @@
       
         <tags>
             
+            <tag> 更新器 </tag>
+            
             <tag> workflow </tag>
             
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
-            
-            <tag> 更新器 </tag>
             
         </tags>
       
