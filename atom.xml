@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://87xl.cn/"/>
-  <updated>2019-03-31T03:47:17.084Z</updated>
+  <updated>2019-03-31T10:27:00.348Z</updated>
   <id>https://87xl.cn/</id>
   
   <author>
@@ -17,11 +17,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>workflow 规则安装器 - 更新｜附送js版 | 文件提取、图标下载</title>
+    <link href="https://87xl.cn/gz-js-wjtq.html"/>
+    <id>https://87xl.cn/gz-js-wjtq.html</id>
+    <published>2019-03-31T16:00:00.000Z</published>
+    <updated>2019-03-31T10:27:00.348Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/gz-js-wjtq/0.jpg" alt=""></p><a id="more"></a><blockquote><p><strong>我原以为现在没有人需要这个规则了，所有一直也没有对这个规则更新。因为现在大部分的人都是ios12以上系统了，然而这两天有几个朋友跟我说：不想更新系统，但是旧版workflow又无法添加规则。我思来想去觉得还是更新一下，其实提取规则文件小良也会时不时的用到，出于方便我又写个个js脚本版的。一起分享了！</strong></p></blockquote><hr><h1 id="1-规则介绍："><a href="#1-规则介绍：" class="headerlink" title="1.规则介绍："></a><strong>1.规则介绍：</strong></h1><blockquote><p>自从苹果公司把workflow升级到2.0并改名为捷径后，一直在对老版本workflow进行一系列的限制逼迫更新。应为只有ios12以上才可以使用2.0版本的捷径。<br>　<br>原先在去年9月22号的时候小良发布过一个规则叫（捷径链接转workflow链接）这个规则只针对捷径上分享的规则链接进行安装到旧版workflow，应为原先以（<a href="https://workflow.is/workflows/xxxxxxxxx）" target="_blank" rel="noopener">https://workflow.is/workflows/xxxxxxxxx）</a> 链接形式的规则，旧版workflow是可以安装的，直到前面几天艾橙老铁跟我说我才知道苹果公司又出黑手了，当（<a href="https://workflow.is/workflows/xxxxxxxxx）" target="_blank" rel="noopener">https://workflow.is/workflows/xxxxxxxxx）</a> 规则链接到自带浏览器打开时会自动转到（<a href="https://www.icloud.com/shortcuts/xxxxxxxxx）" target="_blank" rel="noopener">https://www.icloud.com/shortcuts/xxxxxxxxx）</a> 捷径规则链接形式。<br>　<br>所以小良又对规则进行了改动，支持捷径上分享的规则链接和原先的workflow规则链接安装，并将规则改名为【workflow规则安装器】。<br>　<br>利用这个规则可以解决目前旧版workflow无法安装链接形式的规则。<br>　<br><strong>注：此规则只针对2.0以下的workflow用户，捷径用户就没有必要用这个规则了。</strong></p></blockquote><h1 id="2-使用说明："><a href="#2-使用说明：" class="headerlink" title="2.使用说明："></a><strong>2.使用说明：</strong></h1><blockquote><p>复制规则链接运行【workflow规则安装器】选择安装到workflow即可。<br><img src="https://github.com/yoocl/material/raw/master/img/gz-js-wjtq/1.png" alt=""></p></blockquote><h1 id="3-规则获取安装："><a href="#3-规则获取安装：" class="headerlink" title="3.规则获取安装："></a><strong>3.规则获取安装：</strong></h1><blockquote><p>网站：<a href="http://ae85.cn/gz.html" target="_blank" rel="noopener">http://ae85.cn/gz.html</a> 获取安装。<br>　<br>直连：<a href="workflow://import-workflow/?url=https%3A%2F%2Fgitee.com%2Fyao07%2Fupdate_device%2Fraw%2Fmaster%2F%25E8%25A7%2584%25E5%2588%2599%2FWorkflow%25E8%25A7%2584%25E5%2588%2599%25E5%25AE%2589%25E8%25A3%2585%25E5%2599%25A8%25201.1.wflow&amp;name=Workflow%E8%A7%84%E5%88%99%E5%AE%89%E8%A3%85%E5%99%A81.1" target="_blank" rel="noopener">workflow://import-workflow/?url=https%3A%2F%2Fgitee.com%2Fyao07%2Fupdate_device%2Fraw%2Fmaster%2F%25E8%25A7%2584%25E5%2588%2599%2FWorkflow%25E8%25A7%2584%25E5%2588%2599%25E5%25AE%2589%25E8%25A3%2585%25E5%2599%25A8%25201.1.wflow&amp;name=Workflow%E8%A7%84%E5%88%99%E5%AE%89%E8%A3%85%E5%99%A81.1</a> 到自带浏览器打开安装。<br>　<br>　<br>js版或wf版【<a href="/gz-gxq.html">小良 - 更新器</a>】 均可获取安装。</p></blockquote><hr><h1 id="规则文件提取-js"><a href="#规则文件提取-js" class="headerlink" title="规则文件提取.js"></a><strong>规则文件提取.js</strong></h1><h1 id="1-脚本介绍："><a href="#1-脚本介绍：" class="headerlink" title="1.脚本介绍："></a><strong>1.脚本介绍：</strong></h1><blockquote><p>这个脚本功能和上面规则差不多，只是有界面比较好看，可以选择文件格式。还多了一个规则图标。不过这个一般的朋友是用不到，像我就会经常用到，不用每次都去手动该api。所以我就才做这个【规则文件提取】脚本的。<br>　<br>　<br>使用方法依旧是复制规则分享链接然后运行脚本，和规则是一样的用法，简单。</p></blockquote><h1 id="2-界面预览："><a href="#2-界面预览：" class="headerlink" title="2.界面预览："></a><strong>2.界面预览：</strong></h1><blockquote><p><img src="https://github.com/yoocl/material/raw/master/img/gz-js-wjtq/2.png" alt=""></p></blockquote><h1 id="3-脚本获取安装："><a href="#3-脚本获取安装：" class="headerlink" title="3.脚本获取安装："></a><strong>3.脚本获取安装：</strong></h1><blockquote><p><a href="http://ae85.cn/jsbox/gzwjtq.html" target="_blank" rel="noopener">http://ae85.cn/jsbox/gzwjtq.html</a> 直接安装。<br>　<br>js版或wf版【<a href="/js-gxq.html"> 小良 - 更新器</a> 】 均可获取安装。</p><blockquote><p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="https://mp.weixin.qq.com/s/9E86yTg1Nwm7XuZeOqhVLQ" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://github.com/yoocl/material/raw/master/img/gz-js-wjtq/0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="规则" scheme="https://87xl.cn/categories/%E8%A7%84%E5%88%99/"/>
+    
+    
+      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
+    
+      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
+    
+      <category term="workflow" scheme="https://87xl.cn/tags/workflow/"/>
+    
+      <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
+    
+      <category term="捷径" scheme="https://87xl.cn/tags/%E6%8D%B7%E5%BE%84/"/>
+    
+      <category term="规则" scheme="https://87xl.cn/tags/%E8%A7%84%E5%88%99/"/>
+    
+      <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
+    
+  </entry>
+  
+  <entry>
     <title>捷径-workflow【微信公众号.音.视.图下载 1.1】规则更新</title>
     <link href="https://87xl.cn/gz-gzhyst.html"/>
     <id>https://87xl.cn/gz-gzhyst.html</id>
     <published>2019-03-30T16:00:00.000Z</published>
-    <updated>2019-03-31T03:47:17.084Z</updated>
+    <updated>2019-03-31T10:13:33.058Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/gz-gzhyst/0.png" alt=""></p><a id="more"></a><blockquote><p><strong>昨天有朋友反馈这个公众号·音·视·图下载规则，在部分公众号文章视频下载不了。就这个问题我看了看，由于公众号文章使用的模版不一样，代码也有所不同。使得正则只能匹配到部分类型的代码。就此问题对规则的正则命令做了些调整。</strong></p></blockquote><hr><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote><p>修复部分视频下载不了的问题！</p></blockquote><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这了<a href="/tags/规则/">规则</a> 所指的是运行在 <strong>workflow</strong> <strong>捷径</strong> <strong>快捷指令</strong> App上的。如果你还没有安装，请到 <strong>App Store</strong>（苹果应用商店）搜索安装。　</p></blockquote><h1 id="规则介绍"><a href="#规则介绍" class="headerlink" title="规则介绍"></a><strong>规则介绍</strong></h1><blockquote><p>本规则采用官方api接口所制作<br>　<br>支持微信公众号文章中的视频下载<br>支持微信公众号文章中的音频下载<br>支持微信公众号文章中的图片批量下载<br>支持微信公众号文章的封面图片下载</p></blockquote><h1 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a><strong>使用说明</strong></h1><blockquote><p>复制公众号文章的链接后运行规则即可，下载完成后会自动保存到你的手机相册里。</p></blockquote><h1 id="视频演示"><a href="#视频演示" class="headerlink" title="视频演示"></a><strong>视频演示</strong></h1><blockquote><p><video id="video" controls preload="none" width="100%" poster="https://github.com/yoocl/material/raw/master/img/gz-gzhyst/0.png"><br>      <source id="mp4" src="http://t.cn/EISKr61" type="video/mp4"><br></video><br>　<br>视频地址：<a href="http://t.cn/EISKr61" target="_blank" rel="noopener">http://t.cn/EISKr61</a></p></blockquote><h1 id="规则预览"><a href="#规则预览" class="headerlink" title="规则预览"></a><strong>规则预览</strong></h1><blockquote><p><img src="https://github.com/yoocl/material/raw/master/img/gz-gzhyst/1.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/gz-gzhyst/2.png" alt=""></p></blockquote><h1 id="获取安装"><a href="#获取安装" class="headerlink" title="获取安装"></a><strong>获取安装</strong></h1><blockquote><ol><li>捷径直连：<a href="https://www.icloud.com/shortcuts/33eaccf34e5e47c9b6411de53c03855e" target="_blank" rel="noopener">https://www.icloud.com/shortcuts/33eaccf34e5e47c9b6411de53c03855e</a></li><li>可直接到小良网站获取：<a href="https://ae85.cn/gz.html" target="_blank" rel="noopener">https://ae85.cn/gz.html</a></li><li>也可以运行 <a href="/gz-gxq.html">小良-更新器</a> 规则进行添加。</li><li>还可以到 js版 <a href="/js-gxq.html">小良-更新器</a> 进行添加。</li><li>也可以直接复制下面链接到自带浏览器打开(workflow和捷径通用)<blockquote><p><a href="workflow://import-workflow/?url=https%3A%2F%2Fgitee.com%2Fyao07%2Fupdate_device%2Fraw%2Fmaster%2F%25E8%25A7%2584%25E5%2588%2599%2Fgzhyst.wflow&amp;name=%E5%85%AC%E4%BC%97%E5%8F%B7.%E9%9F%B3.%E8%A7%86.%E5%9B%BE%E4%B8%8B%E8%BD%BD1.1" target="_blank" rel="noopener">workflow://import-workflow/?url=https%3A%2F%2Fgitee.com%2Fyao07%2Fupdate_device%2Fraw%2Fmaster%2F%25E8%25A7%2584%25E5%2588%2599%2Fgzhyst.wflow&amp;name=%E5%85%AC%E4%BC%97%E5%8F%B7.%E9%9F%B3.%E8%A7%86.%E5%9B%BE%E4%B8%8B%E8%BD%BD1.1</a></p></blockquote></li></ol></blockquote>]]></content>
     
@@ -364,9 +398,9 @@
     
       <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
     
-      <category term="更新器" scheme="https://87xl.cn/tags/%E6%9B%B4%E6%96%B0%E5%99%A8/"/>
-    
       <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
+    
+      <category term="更新器" scheme="https://87xl.cn/tags/%E6%9B%B4%E6%96%B0%E5%99%A8/"/>
     
   </entry>
   
