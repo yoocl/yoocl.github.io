@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://87xl.cn/"/>
-  <updated>2019-04-02T05:35:45.697Z</updated>
+  <updated>2019-04-03T04:27:45.196Z</updated>
   <id>https://87xl.cn/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【js脚本】BTbtt-下载 | 资源多，更新快</title>
+    <link href="https://87xl.cn/js-btbtt.html"/>
+    <id>https://87xl.cn/js-btbtt.html</id>
+    <published>2019-04-02T16:00:00.000Z</published>
+    <updated>2019-04-03T04:27:45.196Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/js-btbtt/0.png" alt=""></p><a id="more"></a><blockquote><p><strong>BTbtt是一个bt影片分享的论坛，也是小良经常下载影片来观看的地方，由于在手机端上访问是有广告的，找资源也不是很方便。在前年（2017）年就写过workflow版，小良也时不时会用。在捷径上使用没法看介绍，所有想着还是做一个js版的吧。毕竟在UI上js还是比较棒的。</strong></p></blockquote><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这里的js脚本是指，运行在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">jsbox</a> 软件上的 <strong>JavaScript</strong> 脚本程序。安装脚本前首先你的手机必须有安装这个App。<br>　<br>没有安装的请到（<a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">App Store</a>）苹果商店搜索安装。</p></blockquote><hr><h1 id="脚本介绍"><a href="#脚本介绍" class="headerlink" title="脚本介绍"></a><strong>脚本介绍</strong></h1><blockquote><p>BTbtt-下载.js 脚本是用于下载电影、电视剧、综艺、等等影片的 js 脚本工具。<br>　<br>BTbtt-论坛有着资源多、更新快、的优势。一些刚上映的影片基本都会有。<br>　<br>脚本支持：影片搜索、查看影片详情、复制影片磁力链接。<br>　<br>BT下载需要用到(手机迅雷)或其他BT下载工具，可以到小良网站应用页面 <a href="http://ae85.cn/yy.html" target="_blank" rel="noopener">http://ae85.cn/yy.html</a>  安装。<br>　<br>也可以点击下面链接安装</p><blockquote><p><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/yao07/APP/raw/master/xunlei.xml" target="_blank" rel="noopener">itms-services://?action=download-manifest&amp;url=https://gitee.com/yao07/APP/raw/master/xunlei.xml</a></p></blockquote></blockquote><h1 id="界面预览"><a href="#界面预览" class="headerlink" title="界面预览"></a><strong>界面预览</strong></h1><blockquote><p><img src="https://github.com/yoocl/material/raw/master/img/js-btbtt/1.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-btbtt/2.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-btbtt/3.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-btbtt/4.png" alt=""></p></blockquote><h1 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装"></a><strong>脚本安装</strong></h1><blockquote><p>直链安装：<br><a href="https://ae85.cn/jsbox/btbtt.html" target="_blank" rel="noopener">https://ae85.cn/jsbox/btbtt.html</a><br>　<br>js版或wf版【<a href="/js-gxq.html"> 小良 - 更新器</a> 】 均可获取安装。</p><blockquote><p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="https://mp.weixin.qq.com/s/9E86yTg1Nwm7XuZeOqhVLQ" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://github.com/yoocl/material/raw/master/img/js-btbtt/0.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="脚本" scheme="https://87xl.cn/categories/%E8%84%9A%E6%9C%AC/"/>
+    
+    
+      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
+    
+      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
+    
+      <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
+    
+  </entry>
   
   <entry>
     <title>黑科技 | 让你的App证书永不过期的方法（无需任何插件）</title>
@@ -424,9 +450,9 @@
     
       <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
     
-      <category term="更新器" scheme="https://87xl.cn/tags/%E6%9B%B4%E6%96%B0%E5%99%A8/"/>
-    
       <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
+    
+      <category term="更新器" scheme="https://87xl.cn/tags/%E6%9B%B4%E6%96%B0%E5%99%A8/"/>
     
   </entry>
   
