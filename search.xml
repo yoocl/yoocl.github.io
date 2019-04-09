@@ -84,11 +84,11 @@
             
             <tag> workflow </tag>
             
-            <tag> 快捷指令 </tag>
-            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
             
             <tag> pin </tag>
             
@@ -117,11 +117,11 @@
             
             <tag> workflow </tag>
             
-            <tag> 快捷指令 </tag>
-            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
             
         </tags>
       
@@ -208,11 +208,11 @@
             
             <tag> workflow </tag>
             
-            <tag> 快捷指令 </tag>
-            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
             
             <tag> Flex </tag>
             
@@ -477,9 +477,9 @@
             
             <tag> jsbox </tag>
             
-            <tag> pin </tag>
-            
             <tag> 更新器 </tag>
+            
+            <tag> pin </tag>
             
         </tags>
       
@@ -506,11 +506,11 @@
             
             <tag> workflow </tag>
             
+            <tag> 更新器 </tag>
+            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
-            
-            <tag> 更新器 </tag>
             
         </tags>
       
