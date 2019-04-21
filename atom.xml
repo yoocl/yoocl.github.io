@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://87xl.cn/"/>
-  <updated>2019-04-03T04:27:45.196Z</updated>
+  <updated>2019-04-21T03:46:36.417Z</updated>
   <id>https://87xl.cn/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在线福利 6.2 修复更新</title>
+    <link href="https://87xl.cn/gz-zxfl.html"/>
+    <id>https://87xl.cn/gz-zxfl.html</id>
+    <published>2019-04-21T03:17:01.000Z</published>
+    <updated>2019-04-21T03:46:36.417Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/gz-zxfl/0.png" alt=""></p><a id="more"></a><blockquote><p><strong>最先有朋友跟我反馈说在线福利6.1规则失效了不能看了，刚开始我以为是简单的域名被蔷了而已。<br>　<br>渐渐的反馈的朋友越来越多，不管是公众号留言还是微博评论还是微信和QQ私聊甚至邮箱邮件都收到了朋友们的反馈。<br>　<br>于是我今天就抽点时间看了看，其实是采集站的原因，采集站在get请求时加了Cookie值的验证，导致无法获取到站点的数据。并非是域名被蔷。<br>　<br>竟然那么多朋友反馈，那小良也肯定是要来解决一下这个问题，不过我很好奇怎么还有那么多朋友用workflow（捷径）来看这个···· ？。</strong></p></blockquote><hr><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这了<a href="/tags/规则/">规则</a> 所指的是运行在 <strong>workflow</strong> <strong>捷径</strong> <strong>快捷指令</strong> App上的。如果你还没有安装，请到 <strong>App Store</strong>（苹果应用商店）搜索安装。　</p></blockquote><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote><p>修复 空白不能使用问题<br>　<br>取消 支付宝-每日红包领取 入口<br>　<br>新增 公众号关注 入口<br>　<br></p><font color="#f40">注：可能部分IP会被蔷。如果不能使用请试试科学上网看能否正常使用。（小良这边是无需科学上网即可使用）</font></blockquote><p><img src="https://github.com/yoocl/material/raw/master/img/gz-zxfl/1.png" alt=""></p><blockquote><p><strong>获取安装</strong><br><br></p><ol><li>捷径直连：<a href="https://www.icloud.com/shortcuts/9680580515bd4b67ab1e594830968ff9" target="_blank" rel="noopener">https://www.icloud.com/shortcuts/9680580515bd4b67ab1e594830968ff9</a></li><li>可直接到小良网站获取：<a href="https://ae85.cn/gz.html" target="_blank" rel="noopener">https://ae85.cn/gz.html</a></li><li>也可以运行 <a href="/gz-gxq.html">小良-更新器</a> 规则进行添加。</li><li>还可以到 js版 <a href="/js-gxq.html">小良-更新器</a> 进行添加。</li><li>workflow用户可以使用 <a href="/gz-js-wjtq.html">workflow 规则安装器</a>添加</li></ol></blockquote><blockquote><p><a href="https://ae85.cn/lxfs.html" target="_blank" rel="noopener">关注公众号</a><br><br><br><img src="https://github.com/yoocl/material/raw/master/640.gif" alt=""></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://github.com/yoocl/material/raw/master/img/gz-zxfl/0.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="规则" scheme="https://87xl.cn/categories/%E8%A7%84%E5%88%99/"/>
+    
+    
+      <category term="workflow" scheme="https://87xl.cn/tags/workflow/"/>
+    
+      <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
+    
+      <category term="捷径" scheme="https://87xl.cn/tags/%E6%8D%B7%E5%BE%84/"/>
+    
+      <category term="规则" scheme="https://87xl.cn/tags/%E8%A7%84%E5%88%99/"/>
+    
+      <category term="福利" scheme="https://87xl.cn/tags/%E7%A6%8F%E5%88%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【js脚本】短视频下载器 2.4 - 更新</title>
+    <link href="https://87xl.cn/js-dspxz.html"/>
+    <id>https://87xl.cn/js-dspxz.html</id>
+    <published>2019-04-08T16:00:00.000Z</published>
+    <updated>2019-04-21T03:25:46.550Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/0.jpg" alt=""></p><a id="more"></a><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote><p>2019-4-9 更新<br>　<br>修复：小红书视频解析失败问题。<br>　<br>新增：微信公众号文章多个视频选择下载功能。<br>　<br>修复：Tik tok 下载失败问题</p></blockquote><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这里的js脚本是指，运行在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">jsbox</a> 软件上的 <strong>JavaScript</strong> 脚本程序。安装脚本前首先你的手机必须有安装这个App。<br>　<br>没有安装的请到（<a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">App Store</a>）苹果商店搜索安装。</p></blockquote><h1 id="脚本介绍"><a href="#脚本介绍" class="headerlink" title="脚本介绍"></a><strong>脚本介绍</strong></h1><blockquote><p>脚本支持 JSBox 同时也支持 Pin 软件。<br>　<br>脚本集成了多个短视频网的视频下载，大部分都支持无水印下载，如（小红书、快手、微频、等等）<br>　<br>脚本目前已支持：微信公众号视频、小红书去水印、快手短视频无水印、全民小视频无水印、微博、秒拍、小咖秀、晃咖、微视、美拍、网易云音乐、陌陌、映客、小影 等平台的视频下载。</p></blockquote><h1 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a><strong>使用说明</strong></h1><blockquote><p>复制视频链接后运行脚本选择相对应的平台可提取无水印视频</p></blockquote><h1 id="视频演示"><a href="#视频演示" class="headerlink" title="视频演示"></a><strong>视频演示</strong></h1><blockquote><p><video id="video" controls preload="none" width="100%" poster="https://github.com/yoocl/material/raw/master/img/js-dspxz/0.jpg"><br>      <source id="mp4" src="http://t.cn/E49YWj6" type="video/mp4"><br></video><br>　<br>视频地址：<a href="http://t.cn/E49YWj6" target="_blank" rel="noopener">http://t.cn/E49YWj6</a></p></blockquote><h1 id="脚本预览"><a href="#脚本预览" class="headerlink" title="脚本预览"></a><strong>脚本预览</strong></h1><p><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/1.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/2.png" alt=""></p><h1 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装"></a><strong>脚本安装</strong></h1><blockquote><p>直链安装：<br><a href="https://ae85.cn/jsbox/dsp.html" target="_blank" rel="noopener">https://ae85.cn/jsbox/dsp.html</a><br>　<br>js版或wf版【<a href="/js-gxq.html"> 小良 - 更新器</a> 】 均可获取安装。</p><blockquote><p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="https://mp.weixin.qq.com/s/9E86yTg1Nwm7XuZeOqhVLQ" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p></blockquote></blockquote><h1 id="脚本开启密码"><a href="#脚本开启密码" class="headerlink" title="脚本开启密码"></a><strong>脚本开启密码</strong></h1><blockquote><p>为了防止他人恶意调用使脚本和谐速度过快，将为脚本添加了开启密码，并定期更改。请到公众号获取开启密码。<br>　<br>密码获取：前往公众号【小良科技】在聊天窗口中回复〖285〗即可获取。<br>　<br><a href="https://ae85.cn/lxfs.html" target="_blank" rel="noopener">关注公众号</a><br>　<br><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/4.jpg" alt=""><br><img src="https://github.com/yoocl/material/raw/master/640.gif" alt=""></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://github.com/yoocl/material/raw/master/img/js-dspxz/0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="脚本" scheme="https://87xl.cn/categories/%E8%84%9A%E6%9C%AC/"/>
+    
+    
+      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
+    
+      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
+    
+      <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
+    
+      <category term="直播" scheme="https://87xl.cn/tags/%E7%9B%B4%E6%92%AD/"/>
+    
+  </entry>
   
   <entry>
     <title>【js脚本】BTbtt-下载 | 资源多，更新快</title>
@@ -131,34 +189,6 @@
   </entry>
   
   <entry>
-    <title>【js脚本】短视频下载器 2.4 - 更新</title>
-    <link href="https://87xl.cn/js-dspxz.html"/>
-    <id>https://87xl.cn/js-dspxz.html</id>
-    <published>2019-03-30T01:28:37.102Z</published>
-    <updated>2019-04-09T07:42:02.543Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/0.jpg" alt=""></p><a id="more"></a><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote><p>2019-4-9 更新<br>　<br>修复：小红书视频解析失败问题。<br>　<br>新增：微信公众号文章多个视频选择下载功能。<br>　<br>修复：Tik tok 下载失败问题</p></blockquote><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这里的js脚本是指，运行在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">jsbox</a> 软件上的 <strong>JavaScript</strong> 脚本程序。安装脚本前首先你的手机必须有安装这个App。<br>　<br>没有安装的请到（<a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">App Store</a>）苹果商店搜索安装。</p></blockquote><h1 id="脚本介绍"><a href="#脚本介绍" class="headerlink" title="脚本介绍"></a><strong>脚本介绍</strong></h1><blockquote><p>脚本支持 JSBox 同时也支持 Pin 软件。<br>　<br>脚本集成了多个短视频网的视频下载，大部分都支持无水印下载，如（小红书、快手、微频、等等）<br>　<br>脚本目前已支持：微信公众号视频、小红书去水印、快手短视频无水印、全民小视频无水印、微博、秒拍、小咖秀、晃咖、微视、美拍、网易云音乐、陌陌、映客、小影 等平台的视频下载。</p></blockquote><h1 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a><strong>使用说明</strong></h1><blockquote><p>复制视频链接后运行脚本选择相对应的平台可提取无水印视频</p></blockquote><h1 id="视频演示"><a href="#视频演示" class="headerlink" title="视频演示"></a><strong>视频演示</strong></h1><blockquote><p><video id="video" controls preload="none" width="100%" poster="https://github.com/yoocl/material/raw/master/img/js-dspxz/0.jpg"><br>      <source id="mp4" src="http://t.cn/E49YWj6" type="video/mp4"><br></video><br>　<br>视频地址：<a href="http://t.cn/E49YWj6" target="_blank" rel="noopener">http://t.cn/E49YWj6</a></p></blockquote><h1 id="脚本预览"><a href="#脚本预览" class="headerlink" title="脚本预览"></a><strong>脚本预览</strong></h1><p><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/1.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/2.png" alt=""></p><h1 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装"></a><strong>脚本安装</strong></h1><blockquote><p>直链安装：<br><a href="https://ae85.cn/jsbox/dsp.html" target="_blank" rel="noopener">https://ae85.cn/jsbox/dsp.html</a><br>　<br>js版或wf版【<a href="/js-gxq.html"> 小良 - 更新器</a> 】 均可获取安装。</p><blockquote><p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="https://mp.weixin.qq.com/s/9E86yTg1Nwm7XuZeOqhVLQ" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p></blockquote></blockquote><h1 id="脚本开启密码"><a href="#脚本开启密码" class="headerlink" title="脚本开启密码"></a><strong>脚本开启密码</strong></h1><blockquote><p>为了防止他人恶意调用使脚本和谐速度过快，将为脚本添加了开启密码，并定期更改。请到公众号获取开启密码。<br>　<br>密码获取：前往公众号【小良科技】在聊天窗口中回复〖285〗即可获取。<br>　<br><a href="https://ae85.cn/lxfs.html" target="_blank" rel="noopener">关注公众号</a><br>　<br><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/4.jpg" alt=""><br><img src="https://github.com/yoocl/material/raw/master/640.gif" alt=""></p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://github.com/yoocl/material/raw/master/img/js-dspxz/0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="脚本" scheme="https://87xl.cn/categories/%E8%84%9A%E6%9C%AC/"/>
-    
-    
-      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
-    
-      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
-    
-      <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
-    
-      <category term="直播" scheme="https://87xl.cn/tags/%E7%9B%B4%E6%92%AD/"/>
-    
-  </entry>
-  
-  <entry>
     <title>直播-秋名山见 PC版</title>
     <link href="https://87xl.cn/pc-zbqms.html"/>
     <id>https://87xl.cn/pc-zbqms.html</id>
@@ -176,11 +206,11 @@
       <category term="pc" scheme="https://87xl.cn/categories/pc/"/>
     
     
-      <category term="直播" scheme="https://87xl.cn/tags/%E7%9B%B4%E6%92%AD/"/>
-    
       <category term="pc" scheme="https://87xl.cn/tags/pc/"/>
     
       <category term="Windows" scheme="https://87xl.cn/tags/Windows/"/>
+    
+      <category term="直播" scheme="https://87xl.cn/tags/%E7%9B%B4%E6%92%AD/"/>
     
   </entry>
   
