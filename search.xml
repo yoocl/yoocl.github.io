@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>一键生成微信个人专属数据报告</title>
+      <link href="/pc-wxbg.html"/>
+      <url>/pc-wxbg.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/0.png" alt=""></p><a id="more"></a><blockquote><p>前面几天有小伙伴问我，他说看到朋友圈有一朋友发一张微信好友头像拼图，他一看竟然里面真的有他的微信头像，这是怎么做到的。<br><br><br>如果一个一个去保存好友的头像，再手动去拼成一张图的话，像我接近5千人好友估计得拼到手抽筋也拼不出来。<br><br><br>那有没有工具或程序能实现自动保存和拼接头像图的呢？<br><br><br>当然有不仅可以实现自动拼接好友头像还能帮你分析你的微信好友的地区分布，男女比例，共同所在群组，性签名词云 等等，并且还做成一系列统计报表，图表等微信相关信息供给查看。那么下面我就给大家介绍介绍。</p></blockquote><h1 id="需求条件："><a href="#需求条件：" class="headerlink" title="需求条件："></a><strong>需求条件：</strong></h1><blockquote><p>1、需要一台电脑 (Windows系统)</p><p>2、一部手机且有安装微信 (型号不限)</p><p>3、一键生成工具</p><blockquote><p>下载地址：<a href="https://www.lanzous.com/i3wj6qb" target="_blank" rel="noopener">https://www.lanzous.com/i3wj6qb</a></p></blockquote></blockquote><h1 id="准备好工具之后接下来就开始我们图文操作教程："><a href="#准备好工具之后接下来就开始我们图文操作教程：" class="headerlink" title="准备好工具之后接下来就开始我们图文操作教程："></a><strong>准备好工具之后接下来就开始我们图文操作教程：</strong></h1><p>1、解压下载好的 微信报告.rar 压缩包文件，直接双击运行 一键生成微信个人专属数据报告.exe 程序。<br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/1.png" alt=""></p><p><br><br>2、运行后会自动弹出一个 二维码图片 此时用你的手机打开 微信扫一扫 进行登入。<br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/2.png" alt=""></p><p><br><br>3、登入成功后会显示当前登入的微信号昵称，我们只需要耐心的等待 程序自动处理完 完成后会自动弹出详细报表。<br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/3.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/4.png" alt=""></p><p><br><br>4、如果没能自动打开，也不用慌，最终在当前目录下会生成一个 微信个人数据报告.html  。你可以手动打开这个网页文件。正常情况下，程序获取数据完毕后会自动打开 微信个人数据报告.html </p><p><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/5.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/6.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/7.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/8.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/9.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/10.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/11.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/12.jpg" alt=""><br><br></p><font color="#f40">然后你就可以拿着头像拼图去发朋友圈，叫你的朋友们找找看他自己是在几行几列···</font><p><br></p><p>5、最后程序生成好的各项数据存放在 data 文件夹下，可进行详细查看 。<br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/12.png" alt=""></p><p><br></p><font color="#f40">注：｛一键生成微信个人专属数据报告｝ 工具来源于网络，第三方工具是否使用请自行斟酌。（经小良使用尚未发现其他问题）建议生成完成后到手机中退出网页登入。</font>]]></content>
+      
+      
+      <categories>
+          
+          <category> pc </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> pc </tag>
+            
+            <tag> Windows </tag>
+            
+            <tag> 微信 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>捷径-workflow【小良 - 更新器】更新至3.5版本</title>
       <link href="/gz-gxq.html"/>
       <url>/gz-gxq.html</url>
@@ -22,11 +51,11 @@
             
             <tag> workflow </tag>
             
+            <tag> 更新器 </tag>
+            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
-            
-            <tag> 更新器 </tag>
             
         </tags>
       
@@ -53,11 +82,11 @@
             
             <tag> workflow </tag>
             
-            <tag> 快捷指令 </tag>
-            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
             
             <tag> 福利 </tag>
             
@@ -173,17 +202,17 @@
       
         <tags>
             
-            <tag> js脚本 </tag>
-            
-            <tag> jsbox </tag>
-            
             <tag> workflow </tag>
-            
-            <tag> 快捷指令 </tag>
             
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
+            
+            <tag> js脚本 </tag>
+            
+            <tag> jsbox </tag>
             
             <tag> pin </tag>
             
@@ -212,11 +241,11 @@
             
             <tag> workflow </tag>
             
-            <tag> 快捷指令 </tag>
-            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
             
         </tags>
       
@@ -241,11 +270,11 @@
       
         <tags>
             
-            <tag> 直播 </tag>
-            
             <tag> pc </tag>
             
             <tag> Windows </tag>
+            
+            <tag> 直播 </tag>
             
         </tags>
       
@@ -272,11 +301,11 @@
             
             <tag> workflow </tag>
             
-            <tag> 快捷指令 </tag>
-            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
             
             <tag> Flex </tag>
             
@@ -336,11 +365,11 @@
             
             <tag> js脚本 </tag>
             
+            <tag> jsbox </tag>
+            
             <tag> ss </tag>
             
             <tag> 梯子 </tag>
-            
-            <tag> jsbox </tag>
             
         </tags>
       
@@ -454,13 +483,13 @@
             
             <tag> js脚本 </tag>
             
-            <tag> ss </tag>
-            
-            <tag> 梯子 </tag>
-            
             <tag> jsbox </tag>
             
             <tag> pin </tag>
+            
+            <tag> ss </tag>
+            
+            <tag> 梯子 </tag>
             
             <tag> 翻墙 </tag>
             
@@ -537,11 +566,11 @@
       
         <tags>
             
+            <tag> 更新器 </tag>
+            
             <tag> js脚本 </tag>
             
             <tag> jsbox </tag>
-            
-            <tag> 更新器 </tag>
             
             <tag> pin </tag>
             

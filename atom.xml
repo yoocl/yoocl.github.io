@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://87xl.cn/"/>
-  <updated>2019-04-24T07:38:40.943Z</updated>
+  <updated>2019-04-25T06:33:23.455Z</updated>
   <id>https://87xl.cn/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一键生成微信个人专属数据报告</title>
+    <link href="https://87xl.cn/pc-wxbg.html"/>
+    <id>https://87xl.cn/pc-wxbg.html</id>
+    <published>2019-04-25T06:15:02.000Z</published>
+    <updated>2019-04-25T06:33:23.455Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/0.png" alt=""></p><a id="more"></a><blockquote><p>前面几天有小伙伴问我，他说看到朋友圈有一朋友发一张微信好友头像拼图，他一看竟然里面真的有他的微信头像，这是怎么做到的。<br><br><br>如果一个一个去保存好友的头像，再手动去拼成一张图的话，像我接近5千人好友估计得拼到手抽筋也拼不出来。<br><br><br>那有没有工具或程序能实现自动保存和拼接头像图的呢？<br><br><br>当然有不仅可以实现自动拼接好友头像还能帮你分析你的微信好友的地区分布，男女比例，共同所在群组，性签名词云 等等，并且还做成一系列统计报表，图表等微信相关信息供给查看。那么下面我就给大家介绍介绍。</p></blockquote><h1 id="需求条件："><a href="#需求条件：" class="headerlink" title="需求条件："></a><strong>需求条件：</strong></h1><blockquote><p>1、需要一台电脑 (Windows系统)</p><p>2、一部手机且有安装微信 (型号不限)</p><p>3、一键生成工具</p><blockquote><p>下载地址：<a href="https://www.lanzous.com/i3wj6qb" target="_blank" rel="noopener">https://www.lanzous.com/i3wj6qb</a></p></blockquote></blockquote><h1 id="准备好工具之后接下来就开始我们图文操作教程："><a href="#准备好工具之后接下来就开始我们图文操作教程：" class="headerlink" title="准备好工具之后接下来就开始我们图文操作教程："></a><strong>准备好工具之后接下来就开始我们图文操作教程：</strong></h1><p>1、解压下载好的 微信报告.rar 压缩包文件，直接双击运行 一键生成微信个人专属数据报告.exe 程序。<br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/1.png" alt=""></p><p><br><br>2、运行后会自动弹出一个 二维码图片 此时用你的手机打开 微信扫一扫 进行登入。<br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/2.png" alt=""></p><p><br><br>3、登入成功后会显示当前登入的微信号昵称，我们只需要耐心的等待 程序自动处理完 完成后会自动弹出详细报表。<br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/3.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/4.png" alt=""></p><p><br><br>4、如果没能自动打开，也不用慌，最终在当前目录下会生成一个 微信个人数据报告.html  。你可以手动打开这个网页文件。正常情况下，程序获取数据完毕后会自动打开 微信个人数据报告.html </p><p><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/5.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/6.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/7.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/8.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/9.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/10.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/11.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/12.jpg" alt=""><br><br></p><font color="#f40">然后你就可以拿着头像拼图去发朋友圈，叫你的朋友们找找看他自己是在几行几列···</font><p><br></p><p>5、最后程序生成好的各项数据存放在 data 文件夹下，可进行详细查看 。<br><img src="https://github.com/yoocl/material/raw/master/img/pc-wxbg/12.png" alt=""></p><p><br></p><font color="#f40">注：｛一键生成微信个人专属数据报告｝ 工具来源于网络，第三方工具是否使用请自行斟酌。（经小良使用尚未发现其他问题）建议生成完成后到手机中退出网页登入。</font>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://github.com/yoocl/material/raw/master/img/pc-wxbg/0.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="pc" scheme="https://87xl.cn/categories/pc/"/>
+    
+    
+      <category term="pc" scheme="https://87xl.cn/tags/pc/"/>
+    
+      <category term="Windows" scheme="https://87xl.cn/tags/Windows/"/>
+    
+      <category term="微信" scheme="https://87xl.cn/tags/%E5%BE%AE%E4%BF%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>捷径-workflow【小良 - 更新器】更新至3.5版本</title>
@@ -36,11 +62,11 @@
     
       <category term="workflow" scheme="https://87xl.cn/tags/workflow/"/>
     
+      <category term="更新器" scheme="https://87xl.cn/tags/%E6%9B%B4%E6%96%B0%E5%99%A8/"/>
+    
       <category term="捷径" scheme="https://87xl.cn/tags/%E6%8D%B7%E5%BE%84/"/>
     
       <category term="规则" scheme="https://87xl.cn/tags/%E8%A7%84%E5%88%99/"/>
-    
-      <category term="更新器" scheme="https://87xl.cn/tags/%E6%9B%B4%E6%96%B0%E5%99%A8/"/>
     
   </entry>
   
@@ -64,11 +90,11 @@
     
       <category term="workflow" scheme="https://87xl.cn/tags/workflow/"/>
     
-      <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
-    
       <category term="捷径" scheme="https://87xl.cn/tags/%E6%8D%B7%E5%BE%84/"/>
     
       <category term="规则" scheme="https://87xl.cn/tags/%E8%A7%84%E5%88%99/"/>
+    
+      <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
     
       <category term="福利" scheme="https://87xl.cn/tags/%E7%A6%8F%E5%88%A9/"/>
     
@@ -172,17 +198,17 @@
       <category term="规则" scheme="https://87xl.cn/categories/%E8%A7%84%E5%88%99/"/>
     
     
-      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
-    
-      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
-    
       <category term="workflow" scheme="https://87xl.cn/tags/workflow/"/>
-    
-      <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
     
       <category term="捷径" scheme="https://87xl.cn/tags/%E6%8D%B7%E5%BE%84/"/>
     
       <category term="规则" scheme="https://87xl.cn/tags/%E8%A7%84%E5%88%99/"/>
+    
+      <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
+    
+      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
+    
+      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
     
       <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
     
@@ -208,11 +234,11 @@
     
       <category term="workflow" scheme="https://87xl.cn/tags/workflow/"/>
     
-      <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
-    
       <category term="捷径" scheme="https://87xl.cn/tags/%E6%8D%B7%E5%BE%84/"/>
     
       <category term="规则" scheme="https://87xl.cn/tags/%E8%A7%84%E5%88%99/"/>
+    
+      <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
     
   </entry>
   
@@ -234,11 +260,11 @@
       <category term="pc" scheme="https://87xl.cn/categories/pc/"/>
     
     
-      <category term="直播" scheme="https://87xl.cn/tags/%E7%9B%B4%E6%92%AD/"/>
-    
       <category term="pc" scheme="https://87xl.cn/tags/pc/"/>
     
       <category term="Windows" scheme="https://87xl.cn/tags/Windows/"/>
+    
+      <category term="直播" scheme="https://87xl.cn/tags/%E7%9B%B4%E6%92%AD/"/>
     
   </entry>
   
@@ -262,11 +288,11 @@
     
       <category term="workflow" scheme="https://87xl.cn/tags/workflow/"/>
     
-      <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
-    
       <category term="捷径" scheme="https://87xl.cn/tags/%E6%8D%B7%E5%BE%84/"/>
     
       <category term="规则" scheme="https://87xl.cn/tags/%E8%A7%84%E5%88%99/"/>
+    
+      <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
     
       <category term="Flex" scheme="https://87xl.cn/tags/Flex/"/>
     
@@ -320,11 +346,11 @@
     
       <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
     
+      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
+    
       <category term="ss" scheme="https://87xl.cn/tags/ss/"/>
     
       <category term="梯子" scheme="https://87xl.cn/tags/%E6%A2%AF%E5%AD%90/"/>
-    
-      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
     
   </entry>
   
@@ -426,13 +452,13 @@
     
       <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
     
-      <category term="ss" scheme="https://87xl.cn/tags/ss/"/>
-    
-      <category term="梯子" scheme="https://87xl.cn/tags/%E6%A2%AF%E5%AD%90/"/>
-    
       <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
     
       <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
+    
+      <category term="ss" scheme="https://87xl.cn/tags/ss/"/>
+    
+      <category term="梯子" scheme="https://87xl.cn/tags/%E6%A2%AF%E5%AD%90/"/>
     
       <category term="翻墙" scheme="https://87xl.cn/tags/%E7%BF%BB%E5%A2%99/"/>
     
@@ -504,11 +530,11 @@
       <category term="脚本" scheme="https://87xl.cn/categories/%E8%84%9A%E6%9C%AC/"/>
     
     
+      <category term="更新器" scheme="https://87xl.cn/tags/%E6%9B%B4%E6%96%B0%E5%99%A8/"/>
+    
       <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
     
       <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
-    
-      <category term="更新器" scheme="https://87xl.cn/tags/%E6%9B%B4%E6%96%B0%E5%99%A8/"/>
     
       <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
     
