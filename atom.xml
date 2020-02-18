@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://87xl.cn/"/>
-  <updated>2019-03-30T01:53:17.752Z</updated>
+  <updated>2020-02-18T18:09:14.225Z</updated>
   <id>https://87xl.cn/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>分享一些chrome神级扩展（插件）-让你上网效率翻倍</title>
+    <link href="https://87xl.cn/chrome++.html"/>
+    <id>https://87xl.cn/chrome++.html</id>
+    <published>2020-02-18T17:23:56.192Z</published>
+    <updated>2020-02-18T18:09:14.225Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/chrome++.jpg" alt=""></p><a id="more"></a><blockquote><p><strong>使用浏览器扩展程序可以使你的工作效率提高数倍不止，那么下面我就向大家分享一下我日常使用的扩展，可能大多数扩展大家都已经在使用了，不过也难免有一两个是你不知道的。</strong></p></blockquote><hr><h1 id="1、油猴：Tampermonkey"><a href="#1、油猴：Tampermonkey" class="headerlink" title="1、油猴：Tampermonkey"></a><strong>1、油猴：Tampermonkey</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN</a><br>　<br><strong>脚本地址：</strong><br><a href="https://greasyfork.org/zh-CN/scripts" target="_blank" rel="noopener">https://greasyfork.org/zh-CN/scripts</a></p></blockquote><hr><h1 id="2、Web开发者助手-FeHelper"><a href="#2、Web开发者助手-FeHelper" class="headerlink" title="2、Web开发者助手 FeHelper"></a><strong>2、Web开发者助手 FeHelper</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/fehelperjson/pkgccpejnmalmdinmhkkfafefagiiiad?hl=zh-CN" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/fehelperjson/pkgccpejnmalmdinmhkkfafefagiiiad?hl=zh-CN</a><br>　<br><strong>官方网站：</strong><br><a href="https://www.baidufe.com/" target="_blank" rel="noopener">https://www.baidufe.com/</a></p></blockquote><hr><h1 id="3、右键搜索：Selection-Context-Search"><a href="#3、右键搜索：Selection-Context-Search" class="headerlink" title="3、右键搜索：Selection Context Search"></a><strong>3、右键搜索：Selection Context Search</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/selection-context-search/kplgehmegmjifbhioeldcnphfkcfckjj/related" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/selection-context-search/kplgehmegmjifbhioeldcnphfkcfckjj/related</a><br>　<br><strong>推荐配置</strong><br><a href="https://www.lanzous.com/i98q3md" target="_blank" rel="noopener">https://www.lanzous.com/i98q3md</a></p></blockquote><hr><h1 id="4、代理设置工具：SwitchyOmega"><a href="#4、代理设置工具：SwitchyOmega" class="headerlink" title="4、代理设置工具：SwitchyOmega"></a><strong>4、代理设置工具：SwitchyOmega</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN</a></p></blockquote><hr><h1 id="5、手势：CLEAN-crxMouse-Gestures"><a href="#5、手势：CLEAN-crxMouse-Gestures" class="headerlink" title="5、手势：CLEAN crxMouse Gestures"></a><strong>5、手势：CLEAN crxMouse Gestures</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/clean-crxmouse-gestures/mjidkpedjlfnanainpdfnedkdlacidla/related" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/clean-crxmouse-gestures/mjidkpedjlfnanainpdfnedkdlacidla/related</a></p></blockquote><hr><h1 id="6、YouTube字幕-双语翻译：Dualsub"><a href="#6、YouTube字幕-双语翻译：Dualsub" class="headerlink" title="6、YouTube字幕/双语翻译：Dualsub"></a><strong>6、YouTube字幕/双语翻译：Dualsub</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/dualsub/gnlibmlfpencglodjpgnalbdebfhpmfp/related" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/dualsub/gnlibmlfpencglodjpgnalbdebfhpmfp/related</a></p></blockquote><hr><h1 id="7、Infinity-新标签页-Pro"><a href="#7、Infinity-新标签页-Pro" class="headerlink" title="7、Infinity 新标签页 (Pro)"></a><strong>7、Infinity 新标签页 (Pro)</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh</a></p></blockquote><hr><h1 id="8、二维码生成器-Quick-QR"><a href="#8、二维码生成器-Quick-QR" class="headerlink" title="8、二维码生成器 (Quick QR)"></a><strong>8、二维码生成器 (Quick QR)</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp</a></p></blockquote><hr><h1 id="9、历史记录：History-Manager"><a href="#9、历史记录：History-Manager" class="headerlink" title="9、历史记录：History Manager"></a><strong>9、历史记录：History Manager</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/history-manager/ifekbbngjjcachfekcpeejphmkeckged" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/history-manager/ifekbbngjjcachfekcpeejphmkeckged</a></p></blockquote><hr><h1 id="10、下载"><a href="#10、下载" class="headerlink" title="10、下载+"></a><strong>10、下载+</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/download-plus/gokgophibdidjjpildcdbfpmcahilaaf" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/download-plus/gokgophibdidjjpildcdbfpmcahilaaf</a></p></blockquote><hr><h1 id="11、音乐识别：AHA-Music-Music-Identifier"><a href="#11、音乐识别：AHA-Music-Music-Identifier" class="headerlink" title="11、音乐识别：AHA Music - Music Identifier"></a><strong>11、音乐识别：AHA Music - Music Identifier</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/aha-music-music-identifie/dpacanjfikmhoddligfbehkpomnbgblf/related" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/aha-music-music-identifie/dpacanjfikmhoddligfbehkpomnbgblf/related</a></p></blockquote><hr><h1 id="12、扩展管理：Extension-Manager"><a href="#12、扩展管理：Extension-Manager" class="headerlink" title="12、扩展管理：Extension Manager"></a><strong>12、扩展管理：Extension Manager</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco</a></p></blockquote><hr><h1 id="13、彩云小译-网页翻译插件"><a href="#13、彩云小译-网页翻译插件" class="headerlink" title="13、彩云小译 - 网页翻译插件"></a><strong>13、彩云小译 - 网页翻译插件</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/lingocloud-web-translatio/jmpepeebcbihafjjadogphmbgiffiajh?hl=zh-CN" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/lingocloud-web-translatio/jmpepeebcbihafjjadogphmbgiffiajh?hl=zh-CN</a></p></blockquote><h1 id="14、类似的网站-发现相关网站"><a href="#14、类似的网站-发现相关网站" class="headerlink" title="14、类似的网站 - 发现相关网站"></a><strong>14、类似的网站 - 发现相关网站</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn</a></p></blockquote><hr><h1 id="15、视频旋转：Rotate-that-Video-Player"><a href="#15、视频旋转：Rotate-that-Video-Player" class="headerlink" title="15、视频旋转：Rotate that Video Player"></a><strong>15、视频旋转：Rotate that Video Player</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/rotate-that-video-player/ijpcmpbcokpgmecfkmehleemljfkeimo" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/rotate-that-video-player/ijpcmpbcokpgmecfkmehleemljfkeimo</a></p></blockquote><hr><h1 id="16、高效网页截图编辑插件"><a href="#16、高效网页截图编辑插件" class="headerlink" title="16、高效网页截图编辑插件"></a><strong>16、高效网页截图编辑插件</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/explain-and-send-screensh/mdddabjhelpilpnpgondfmehhcplpiin?hl=zh-CN" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/explain-and-send-screensh/mdddabjhelpilpnpgondfmehhcplpiin?hl=zh-CN</a></p></blockquote><hr><h1 id="17、cookie管理插件：EditThisCookie"><a href="#17、cookie管理插件：EditThisCookie" class="headerlink" title="17、cookie管理插件：EditThisCookie"></a><strong>17、cookie管理插件：EditThisCookie</strong></h1><blockquote><p><strong>安装地址：</strong><br><a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=zh-CN" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=zh-CN</a></p></blockquote><h1 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a><strong>未完待续</strong></h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://github.com/yoocl/material/raw/master/img/chrome++.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="pc" scheme="https://87xl.cn/categories/pc/"/>
+    
+    
+      <category term="插件" scheme="https://87xl.cn/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="扩展" scheme="https://87xl.cn/tags/%E6%89%A9%E5%B1%95/"/>
+    
+      <category term="谷歌" scheme="https://87xl.cn/tags/%E8%B0%B7%E6%AD%8C/"/>
+    
+      <category term="浏览器" scheme="https://87xl.cn/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+      <category term="chrome" scheme="https://87xl.cn/tags/chrome/"/>
+    
+  </entry>
   
   <entry>
     <title>【js脚本】直播-秋名山见 更新至 2.0 版本</title>
@@ -86,11 +116,11 @@
       <category term="脚本" scheme="https://87xl.cn/categories/%E8%84%9A%E6%9C%AC/"/>
     
     
+      <category term="更新器" scheme="https://87xl.cn/tags/%E6%9B%B4%E6%96%B0%E5%99%A8/"/>
+    
       <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
     
       <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
-    
-      <category term="更新器" scheme="https://87xl.cn/tags/%E6%9B%B4%E6%96%B0%E5%99%A8/"/>
     
       <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
     
@@ -144,13 +174,13 @@
     
       <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
     
-      <category term="ss" scheme="https://87xl.cn/tags/ss/"/>
-    
-      <category term="梯子" scheme="https://87xl.cn/tags/%E6%A2%AF%E5%AD%90/"/>
-    
       <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
     
       <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
+    
+      <category term="ss" scheme="https://87xl.cn/tags/ss/"/>
+    
+      <category term="梯子" scheme="https://87xl.cn/tags/%E6%A2%AF%E5%AD%90/"/>
     
       <category term="翻墙" scheme="https://87xl.cn/tags/%E7%BF%BB%E5%A2%99/"/>
     
@@ -179,26 +209,6 @@
       <category term="应用" scheme="https://87xl.cn/tags/%E5%BA%94%E7%94%A8/"/>
     
       <category term="软件" scheme="https://87xl.cn/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【壁纸】iPhone x (分享两张自用壁纸 5.8``的)</title>
-    <link href="https://87xl.cn/bz-iphonex.html"/>
-    <id>https://87xl.cn/bz-iphonex.html</id>
-    <published>2020-01-25T11:57:32.594Z</published>
-    <updated>2019-01-23T14:27:06.284Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/bz-iphonex/0.png" alt=""></p><a id="more"></a><blockquote><p><strong>壁纸边框是有朋友分享的。<br>壁纸中间图案是由小良自己用手机App（Pixelmator）编辑制作而成。<br>有时间了我再出个编辑壁纸的教程！</strong></p></blockquote><h1 id="先看看效果"><a href="#先看看效果" class="headerlink" title="先看看效果"></a><strong>先看看效果</strong></h1><blockquote><h2 id="锁屏展示："><a href="#锁屏展示：" class="headerlink" title="锁屏展示："></a>锁屏展示：</h2><p><img src="https://github.com/yoocl/material/raw/master/img/bz-iphonex/1.png" alt=""></p></blockquote><blockquote><h2 id="主屏展示："><a href="#主屏展示：" class="headerlink" title="主屏展示："></a>主屏展示：</h2><p><img src="https://github.com/yoocl/material/raw/master/img/bz-iphonex/2.png" alt=""></p></blockquote><h1 id="壁纸原图"><a href="#壁纸原图" class="headerlink" title="壁纸原图"></a><strong>壁纸原图</strong></h1><blockquote><h2 id="锁屏"><a href="#锁屏" class="headerlink" title="锁屏"></a>锁屏</h2><p><img src="https://github.com/yoocl/material/raw/master/img/bz-iphonex/3.jpg" alt=""></p></blockquote><blockquote><h2 id="主屏"><a href="#主屏" class="headerlink" title="主屏"></a>主屏</h2><p><img src="https://github.com/yoocl/material/raw/master/img/bz-iphonex/4.jpg" alt=""></p></blockquote><h1 id="设置壁纸"><a href="#设置壁纸" class="headerlink" title="设置壁纸"></a><strong>设置壁纸</strong></h1><blockquote><p>将壁纸缩放至边框边缘-设定即可！<br>　<br>到手机-设置-通用-辅助功能-减弱动态效果-打开！</p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://github.com/yoocl/material/raw/master/img/bz-iphonex/0.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="壁纸" scheme="https://87xl.cn/tags/%E5%A3%81%E7%BA%B8/"/>
     
   </entry>
   
@@ -235,6 +245,26 @@
   </entry>
   
   <entry>
+    <title>【壁纸】iPhone x (分享两张自用壁纸 5.8``的)</title>
+    <link href="https://87xl.cn/bz-iphonex.html"/>
+    <id>https://87xl.cn/bz-iphonex.html</id>
+    <published>2020-01-25T11:57:32.594Z</published>
+    <updated>2019-01-23T14:27:06.284Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/bz-iphonex/0.png" alt=""></p><a id="more"></a><blockquote><p><strong>壁纸边框是有朋友分享的。<br>壁纸中间图案是由小良自己用手机App（Pixelmator）编辑制作而成。<br>有时间了我再出个编辑壁纸的教程！</strong></p></blockquote><h1 id="先看看效果"><a href="#先看看效果" class="headerlink" title="先看看效果"></a><strong>先看看效果</strong></h1><blockquote><h2 id="锁屏展示："><a href="#锁屏展示：" class="headerlink" title="锁屏展示："></a>锁屏展示：</h2><p><img src="https://github.com/yoocl/material/raw/master/img/bz-iphonex/1.png" alt=""></p></blockquote><blockquote><h2 id="主屏展示："><a href="#主屏展示：" class="headerlink" title="主屏展示："></a>主屏展示：</h2><p><img src="https://github.com/yoocl/material/raw/master/img/bz-iphonex/2.png" alt=""></p></blockquote><h1 id="壁纸原图"><a href="#壁纸原图" class="headerlink" title="壁纸原图"></a><strong>壁纸原图</strong></h1><blockquote><h2 id="锁屏"><a href="#锁屏" class="headerlink" title="锁屏"></a>锁屏</h2><p><img src="https://github.com/yoocl/material/raw/master/img/bz-iphonex/3.jpg" alt=""></p></blockquote><blockquote><h2 id="主屏"><a href="#主屏" class="headerlink" title="主屏"></a>主屏</h2><p><img src="https://github.com/yoocl/material/raw/master/img/bz-iphonex/4.jpg" alt=""></p></blockquote><h1 id="设置壁纸"><a href="#设置壁纸" class="headerlink" title="设置壁纸"></a><strong>设置壁纸</strong></h1><blockquote><p>将壁纸缩放至边框边缘-设定即可！<br>　<br>到手机-设置-通用-辅助功能-减弱动态效果-打开！</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://github.com/yoocl/material/raw/master/img/bz-iphonex/0.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="壁纸" scheme="https://87xl.cn/tags/%E5%A3%81%E7%BA%B8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【js脚本】free-ss (免费ss) 修复更新1.2</title>
     <link href="https://87xl.cn/free-ss.html"/>
     <id>https://87xl.cn/free-ss.html</id>
@@ -254,11 +284,11 @@
     
       <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
     
+      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
+    
       <category term="ss" scheme="https://87xl.cn/tags/ss/"/>
     
       <category term="梯子" scheme="https://87xl.cn/tags/%E6%A2%AF%E5%AD%90/"/>
-    
-      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
     
   </entry>
   
@@ -310,11 +340,11 @@
       <category term="脚本" scheme="https://87xl.cn/categories/%E8%84%9A%E6%9C%AC/"/>
     
     
-      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
-    
       <category term="Flex" scheme="https://87xl.cn/tags/Flex/"/>
     
       <category term="补丁" scheme="https://87xl.cn/tags/%E8%A1%A5%E4%B8%81/"/>
+    
+      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
     
   </entry>
   
@@ -470,10 +500,6 @@
       <category term="规则" scheme="https://87xl.cn/categories/%E8%A7%84%E5%88%99/"/>
     
     
-      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
-    
-      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
-    
       <category term="workflow" scheme="https://87xl.cn/tags/workflow/"/>
     
       <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
@@ -481,6 +507,10 @@
       <category term="捷径" scheme="https://87xl.cn/tags/%E6%8D%B7%E5%BE%84/"/>
     
       <category term="规则" scheme="https://87xl.cn/tags/%E8%A7%84%E5%88%99/"/>
+    
+      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
+    
+      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
     
       <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
     
