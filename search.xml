@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>电脑版Workflow(捷径,快捷指令)【quicker】效率神器</title>
+      <link href="/pc-quicker.html"/>
+      <url>/pc-quicker.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/pc-quicker/0.png" alt=""></p><a id="more"></a><blockquote><p><strong>这是一个可以提高效率的电脑软件，堪称电脑端的苹果捷径，可以根据您的需求去添加一些动作，提高您的工作效率。</strong></p></blockquote><hr><p><video id="video" controls preload="none" width="100%" poster=""><br>      <source id="mp4" src="https://files.getquicker.net/_sitefiles/media/Quicker_Intro.mp4" type="video/mp4"><br>&lt;/video</video></p><p>官网：<a href="https://www.getquicker.net/" target="_blank" rel="noopener">https://www.getquicker.net/</a><br>下载：<a href="https://github.com/yoocl/material/raw/master/img/Quicker.x64.1.3.17.0.msi" target="_blank" rel="noopener">Github下载</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> pc </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+            <tag> 电脑版捷径 </tag>
+            
+            <tag> 效率工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>分享一些chrome神级扩展（插件）-让你上网效率翻倍</title>
       <link href="/pc-chrome.html"/>
       <url>/pc-chrome.html</url>
@@ -117,11 +146,11 @@
       
         <tags>
             
+            <tag> js脚本 </tag>
+            
             <tag> Flex </tag>
             
             <tag> 补丁 </tag>
-            
-            <tag> js脚本 </tag>
             
         </tags>
       
@@ -295,6 +324,10 @@
       
         <tags>
             
+            <tag> js脚本 </tag>
+            
+            <tag> jsbox </tag>
+            
             <tag> workflow </tag>
             
             <tag> 捷径 </tag>
@@ -302,10 +335,6 @@
             <tag> 规则 </tag>
             
             <tag> 快捷指令 </tag>
-            
-            <tag> js脚本 </tag>
-            
-            <tag> jsbox </tag>
             
             <tag> pin </tag>
             
@@ -514,11 +543,11 @@
       
         <tags>
             
-            <tag> 更新器 </tag>
-            
             <tag> js脚本 </tag>
             
             <tag> jsbox </tag>
+            
+            <tag> 更新器 </tag>
             
             <tag> pin </tag>
             
