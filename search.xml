@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>【js脚本】网购历史价格查询 1.3 更新</title>
+      <link href="/js-wglsjg.html"/>
+      <url>/js-wglsjg.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/js-wglsjg/0.png" alt=""></p><a id="more"></a><blockquote><p><strong>嗨，老铁们好久不见，有没有想我呀？马上又要到一年一度的618网购的日子了，打假网购虚假活动商品怎么能少的了【网购历史价格查询】呢。昨天看了看后台留言看到了有朋友说这个js版的历史价格查询失效了，于是小良抽点时间连夜把这脚本修复了一下，希望能给朋友们带来度过一个愉快的购物节。</strong></p></blockquote><p><strong>在电商迅速的发展下，早已成为消费者购买物品的主要方式了，然而终有一下商家会刷一些花招。例如：调高商品价格再打折来优惠促销。那么我们要怎么样来识别这种套路呢？其实只需要使用我们的【网购历史价格查询】规则或者脚本，就可以轻松的查询到商品历史价格变动了。</strong></p><p><strong>以前逛某宝时发现一个很坑的商家，他的商品卖￥1138。在他的商品以及店铺里面怎么找都找不到他的优惠券信息。一般的朋友基本看看评论，对比一下什么的也就买了，不知道的朋友其实这样就已经被坑了。当我用历史查价工具查时，其实他最低卖过￥88元的。而且这个商品还设有￥1000元的隐藏优惠券，不知道的朋友根本找不到这个券。相信网上应该有很多这样的商家，所以我们在购物的时候还是查询一下比较好。</strong></p><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这里的js脚本是指，运行在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">jsbox</a> 软件上的 <strong>JavaScript</strong> 脚本程序。安装脚本前首先你的手机必须有安装这个App。<br>　<br>没有安装的请到（<a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">App Store</a>）苹果商店搜索安装。</p></blockquote><hr><h1 id="脚本说明"><a href="#脚本说明" class="headerlink" title="脚本说明"></a><strong>脚本说明</strong></h1><blockquote><p>说到网购历史价格查询很多朋友可能第一时间就会想到不是有 workflow版的 网购历史价格查询 规则么？为什么还要弄个js版的呢？<br>　<br>其实我们都知道规则在UI展示上面效果是非常差的，它主要是做效率上，这就导致了有些商品在历史价格变动大的情况在通知中心上的规则会显示不全，后面的价格根本看不到。<br>　<br>所以我就写了一个js版的有价格走势图功能，就如pc端哪有查询效果一样，　</p></blockquote><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote><p>修复：查询一直加载中问题。<br>　<br>修复：自动查询商品是否有隐藏优惠券。<br>　<br>修复：运行脚本后自动检测剪贴板是否有购物链接。　</p></blockquote><h1 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a><strong>使用说明</strong></h1><blockquote><p>和规则用法一样一样的，只不过这里是启动js脚本。先复制商品链接在运行js脚本<br>　<br>演示视频：　</p><p><video id="video" controls preload="none" width="100%" poster="https://github.com/yoocl/material/raw/master/img/js-wglsjg/0.png"><br>      <source id="mp4" src="http://t.cn/E6T1LSw" type="video/mp4"><br></video><br>　<br>视频地址：<a href="http://t.cn/E6T1LSw" target="_blank" rel="noopener">http://t.cn/E6T1LSw</a></p></blockquote><h1 id="界面预览"><a href="#界面预览" class="headerlink" title="界面预览"></a><strong>界面预览</strong></h1><blockquote><p><img src="https://github.com/yoocl/material/raw/master/img/js-wglsjg/1.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-wglsjg/2.png" alt=""></p></blockquote><h1 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装"></a><strong>脚本安装</strong></h1><blockquote><p>直链安装：<br><a href="https://ae85.cn/jsbox/wglsjg.html" target="_blank" rel="noopener">https://ae85.cn/jsbox/wglsjg.html</a><br>　<br>js版或wf版【<a href="/js-gxq.html"> 小良 - 更新器</a> 】 均可获取安装。</p><blockquote><p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="https://mp.weixin.qq.com/s/9E86yTg1Nwm7XuZeOqhVLQ" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p></blockquote></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> js脚本 </tag>
+            
+            <tag> jsbox </tag>
+            
+            <tag> pin </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>电脑版Workflow(捷径,快捷指令)【quicker】效率神器</title>
       <link href="/pc-quicker.html"/>
       <url>/pc-quicker.html</url>
@@ -97,6 +126,35 @@
     
     
     <entry>
+      <title>【js脚本】Flex 3 补丁管理 更新 1.3</title>
+      <link href="/js-flex3.html"/>
+      <url>/js-flex3.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/js-flex3/0.png" alt=""></p><a id="more"></a><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote><p>2019-11-21 更新<br>　<br>修复：部分补丁无法添加问题。</p></blockquote><blockquote><p>2019-3-11 更新<br>　<br>新增：云端补丁搜索功能。</p></blockquote><blockquote><p>2019-3-4 更新<br>　<br>新增：单个补丁分享功能。<br>新增：查看补丁详细功能。<br>修复：清空补丁后重新运行插件还有的问题。</p></blockquote><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这里的js脚本是指，运行在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">jsbox</a> 软件上的 <strong>JavaScript</strong> 脚本程序。安装脚本前首先你的手机必须有安装这个App。<br>　<br>没有安装的请到（<a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">App Store</a>）苹果商店搜索安装。</p></blockquote><h1 id="脚本介绍"><a href="#脚本介绍" class="headerlink" title="脚本介绍"></a><strong>脚本介绍</strong></h1><blockquote><p>该脚本可以方便的管理和获取一些补丁<br>单个补丁分享功能,查看补丁详细功能.<br>也可以合成 Flex 多个 patches.plist 文件<br>内置云端补丁，补丁由网友分享和 Flex 插件内置补丁，最后由小良整理上传。（ps：如果你有好用的补丁而且愿意分享的话，可以联系我）</p></blockquote><h1 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a><strong>使用说明</strong></h1><blockquote><p>1、用 <a href="">Filza</a> 文件管理器 找到 <a href="">Flex 3</a> 补丁文件（路径：<a href="">/var/mobile/Library/Application Support/Flex3</a>）把 <a href="">patches.plist</a> 文件导出到 <a href="">iCloud 云盘中</a>（也可复制<a href="">patches.plist</a>文件内源码）。<br>　<br>2、打开 <a href="">JSBox</a> 运行 <a href="">Flex 3补丁管理</a> 这个脚本，添加补丁，以<a href="">iCloud 云盘</a> 或 <a href="">剪切板</a> 方式添加（当然也可以直接从脚本云端添加）<br>　<br>3、完成后就可以导出文件放到 <a href="">Flex 3</a> 补丁文件 替换原先的就可以使用了。<br>　<br>如果上面文字看得不是很懂请看下面视频教程。</p></blockquote><h1 id="视频演示"><a href="#视频演示" class="headerlink" title="视频演示"></a><strong>视频演示</strong></h1><blockquote><p><video id="video" controls preload="none" width="100%" poster="https://github.com/yoocl/material/raw/master/img/js-flex3/0.png"><br>      <source id="mp4" src="http://t.cn/EIcPhm3" type="video/mp4"><br></video><br>　<br>视频地址：<a href="http://t.cn/EIcPhm3" target="_blank" rel="noopener">http://t.cn/EIcPhm3</a></p></blockquote><h1 id="脚本预览"><a href="#脚本预览" class="headerlink" title="脚本预览"></a><strong>脚本预览</strong></h1><blockquote><p><img src="https://github.com/yoocl/material/raw/master/img/js-flex3/1.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-flex3/2.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-flex3/3.png" alt=""></p></blockquote><h1 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装"></a><strong>脚本安装</strong></h1><blockquote><p>直链安装：<br><a href="https://ae85.cn/jsbox/flex3.html" target="_blank" rel="noopener">https://ae85.cn/jsbox/flex3.html</a><br>　<br>js版或wf版【<a href="/js-gxq.html"> 小良 - 更新器</a> 】 均可获取安装。</p><blockquote><p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="https://mp.weixin.qq.com/s/9E86yTg1Nwm7XuZeOqhVLQ" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p></blockquote></blockquote><blockquote><p>最后在说下如果你有好用的插件而且愿意分享的话，请联系我或直接将patches.plist 文件发我邮箱上（<a href="mailto:84088289@qq.com" target="_blank" rel="noopener">84088289@qq.com</a>） </p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Flex </tag>
+            
+            <tag> 补丁 </tag>
+            
+            <tag> js脚本 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>在线福利 6.5 修复更新</title>
       <link href="/gz-zxfl.html"/>
       <url>/gz-zxfl.html</url>
@@ -115,42 +173,13 @@
             
             <tag> workflow </tag>
             
+            <tag> 快捷指令 </tag>
+            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
             
-            <tag> 快捷指令 </tag>
-            
             <tag> 福利 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>【js脚本】Flex 3 补丁管理 更新 1.3</title>
-      <link href="/js-flex3.html"/>
-      <url>/js-flex3.html</url>
-      
-        <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/js-flex3/0.png" alt=""></p><a id="more"></a><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote><p>2019-11-21 更新<br>　<br>修复：部分补丁无法添加问题。</p></blockquote><blockquote><p>2019-3-11 更新<br>　<br>新增：云端补丁搜索功能。</p></blockquote><blockquote><p>2019-3-4 更新<br>　<br>新增：单个补丁分享功能。<br>新增：查看补丁详细功能。<br>修复：清空补丁后重新运行插件还有的问题。</p></blockquote><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这里的js脚本是指，运行在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">jsbox</a> 软件上的 <strong>JavaScript</strong> 脚本程序。安装脚本前首先你的手机必须有安装这个App。<br>　<br>没有安装的请到（<a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">App Store</a>）苹果商店搜索安装。</p></blockquote><h1 id="脚本介绍"><a href="#脚本介绍" class="headerlink" title="脚本介绍"></a><strong>脚本介绍</strong></h1><blockquote><p>该脚本可以方便的管理和获取一些补丁<br>单个补丁分享功能,查看补丁详细功能.<br>也可以合成 Flex 多个 patches.plist 文件<br>内置云端补丁，补丁由网友分享和 Flex 插件内置补丁，最后由小良整理上传。（ps：如果你有好用的补丁而且愿意分享的话，可以联系我）</p></blockquote><h1 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a><strong>使用说明</strong></h1><blockquote><p>1、用 <a href="">Filza</a> 文件管理器 找到 <a href="">Flex 3</a> 补丁文件（路径：<a href="">/var/mobile/Library/Application Support/Flex3</a>）把 <a href="">patches.plist</a> 文件导出到 <a href="">iCloud 云盘中</a>（也可复制<a href="">patches.plist</a>文件内源码）。<br>　<br>2、打开 <a href="">JSBox</a> 运行 <a href="">Flex 3补丁管理</a> 这个脚本，添加补丁，以<a href="">iCloud 云盘</a> 或 <a href="">剪切板</a> 方式添加（当然也可以直接从脚本云端添加）<br>　<br>3、完成后就可以导出文件放到 <a href="">Flex 3</a> 补丁文件 替换原先的就可以使用了。<br>　<br>如果上面文字看得不是很懂请看下面视频教程。</p></blockquote><h1 id="视频演示"><a href="#视频演示" class="headerlink" title="视频演示"></a><strong>视频演示</strong></h1><blockquote><p><video id="video" controls preload="none" width="100%" poster="https://github.com/yoocl/material/raw/master/img/js-flex3/0.png"><br>      <source id="mp4" src="http://t.cn/EIcPhm3" type="video/mp4"><br></video><br>　<br>视频地址：<a href="http://t.cn/EIcPhm3" target="_blank" rel="noopener">http://t.cn/EIcPhm3</a></p></blockquote><h1 id="脚本预览"><a href="#脚本预览" class="headerlink" title="脚本预览"></a><strong>脚本预览</strong></h1><blockquote><p><img src="https://github.com/yoocl/material/raw/master/img/js-flex3/1.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-flex3/2.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-flex3/3.png" alt=""></p></blockquote><h1 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装"></a><strong>脚本安装</strong></h1><blockquote><p>直链安装：<br><a href="https://ae85.cn/jsbox/flex3.html" target="_blank" rel="noopener">https://ae85.cn/jsbox/flex3.html</a><br>　<br>js版或wf版【<a href="/js-gxq.html"> 小良 - 更新器</a> 】 均可获取安装。</p><blockquote><p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="https://mp.weixin.qq.com/s/9E86yTg1Nwm7XuZeOqhVLQ" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p></blockquote></blockquote><blockquote><p>最后在说下如果你有好用的插件而且愿意分享的话，请联系我或直接将patches.plist 文件发我邮箱上（<a href="mailto:84088289@qq.com" target="_blank" rel="noopener">84088289@qq.com</a>） </p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> 脚本 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> js脚本 </tag>
-            
-            <tag> Flex </tag>
-            
-            <tag> 补丁 </tag>
             
         </tags>
       
@@ -206,11 +235,11 @@
             
             <tag> workflow </tag>
             
-            <tag> 更新器 </tag>
-            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 更新器 </tag>
             
         </tags>
       
@@ -324,17 +353,17 @@
       
         <tags>
             
-            <tag> js脚本 </tag>
-            
-            <tag> jsbox </tag>
-            
             <tag> workflow </tag>
+            
+            <tag> 快捷指令 </tag>
             
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
             
-            <tag> 快捷指令 </tag>
+            <tag> js脚本 </tag>
+            
+            <tag> jsbox </tag>
             
             <tag> pin </tag>
             
@@ -363,11 +392,11 @@
             
             <tag> workflow </tag>
             
+            <tag> 快捷指令 </tag>
+            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
-            
-            <tag> 快捷指令 </tag>
             
         </tags>
       
@@ -423,11 +452,11 @@
             
             <tag> workflow </tag>
             
+            <tag> 快捷指令 </tag>
+            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
-            
-            <tag> 快捷指令 </tag>
             
             <tag> Flex </tag>
             
