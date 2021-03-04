@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>【js脚本】free-ss (免费ss) 修复更新1.3</title>
+      <title>【js脚本】free-ss (免费ss) 修复更新1.4</title>
       <link href="/free-ss.html"/>
       <url>/free-ss.html</url>
       
-        <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/0.png" alt=""></p><a id="more"></a><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote><p>2021-02-15 更新<br>　<br>修复加载无响应问题！</p></blockquote><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这里的js脚本是指，运行在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">jsbox</a> 软件上的 <strong>JavaScript</strong> 脚本程序。安装脚本前首先你的手机必须有安装这个App。<br>　<br>没有安装的请到（<a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">App Store</a>）苹果商店搜索安装。</p></blockquote><h1 id="脚本介绍"><a href="#脚本介绍" class="headerlink" title="脚本介绍"></a><strong>脚本介绍</strong></h1><blockquote><ol><li>运行脚本自动获取最新免费ss节点</li><li>点击节点列表中的一个自动生成节点二维码</li><li>点击二维码图片会弹出菜单</li><li>可分享二维码，保存到相册，复制ss链接，添加到小火箭</li><li>可一键添加所有节点到小火箭</li></ol></blockquote><h1 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装"></a><strong>脚本安装</strong></h1><blockquote><p>直链安装：<br><a href="https://ae85.cn/jsbox/free-ss.html" target="_blank" rel="noopener">https://ae85.cn/jsbox/free-ss.html</a>　</p><blockquote><p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="http://qq.cn.hn/g4s" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p></blockquote></blockquote><h1 id="脚本预览"><a href="#脚本预览" class="headerlink" title="脚本预览"></a><strong>脚本预览</strong></h1><blockquote><h2 id="主界面"><a href="#主界面" class="headerlink" title="主界面"></a>主界面</h2><p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/1.png" alt=""><br>这里的延迟并不准的，是我随机取的·~ （由于测速代码还没实现，为了美观而加的随机数）可以一键添加到小火箭在进行测速。</p><h2 id="弹出菜单功能"><a href="#弹出菜单功能" class="headerlink" title="弹出菜单功能"></a>弹出菜单功能</h2><p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/2.png" alt=""></p><h2 id="一键添加到小火箭后效果"><a href="#一键添加到小火箭后效果" class="headerlink" title="一键添加到小火箭后效果"></a>一键添加到小火箭后效果</h2><p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/3.png" alt=""></p><h2 id="测试-Google-可正常访问"><a href="#测试-Google-可正常访问" class="headerlink" title="测试 Google 可正常访问"></a>测试 Google 可正常访问</h2><p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/4.png" alt=""></p><h2 id="测试-YouTube-1080p-没有问题"><a href="#测试-YouTube-1080p-没有问题" class="headerlink" title="测试 YouTube 1080p 没有问题"></a>测试 YouTube 1080p 没有问题</h2><p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/5.png" alt=""></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/0.png" alt=""></p><a id="more"></a><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote><p>2021-02-27 更新<br>　<br>修复配置文件被封问题！</p></blockquote><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这里的js脚本是指，运行在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">jsbox</a> 软件上的 <strong>JavaScript</strong> 脚本程序。安装脚本前首先你的手机必须有安装这个App。<br>　<br>没有安装的请到（<a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">App Store</a>）苹果商店搜索安装。</p></blockquote><h1 id="脚本介绍"><a href="#脚本介绍" class="headerlink" title="脚本介绍"></a><strong>脚本介绍</strong></h1><blockquote><ol><li>运行脚本自动获取最新免费ss节点</li><li>点击节点列表中的一个自动生成节点二维码</li><li>点击二维码图片会弹出菜单</li><li>可分享二维码，保存到相册，复制ss链接，添加到小火箭</li><li>可一键添加所有节点到小火箭</li></ol></blockquote><h1 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装"></a><strong>脚本安装</strong></h1><blockquote><p>直链安装：<br><a href="https://ae85.cn/jsbox/free-ss.html" target="_blank" rel="noopener">https://ae85.cn/jsbox/free-ss.html</a>　</p><blockquote><p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="http://qq.cn.hn/g4s" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p></blockquote></blockquote><h1 id="脚本预览"><a href="#脚本预览" class="headerlink" title="脚本预览"></a><strong>脚本预览</strong></h1><blockquote><h2 id="主界面"><a href="#主界面" class="headerlink" title="主界面"></a>主界面</h2><p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/1.png" alt=""><br>这里的延迟并不准的，是我随机取的·~ （由于测速代码还没实现，为了美观而加的随机数）可以一键添加到小火箭在进行测速。</p><h2 id="弹出菜单功能"><a href="#弹出菜单功能" class="headerlink" title="弹出菜单功能"></a>弹出菜单功能</h2><p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/2.png" alt=""></p><h2 id="一键添加到小火箭后效果"><a href="#一键添加到小火箭后效果" class="headerlink" title="一键添加到小火箭后效果"></a>一键添加到小火箭后效果</h2><p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/3.png" alt=""></p><h2 id="测试-Google-可正常访问"><a href="#测试-Google-可正常访问" class="headerlink" title="测试 Google 可正常访问"></a>测试 Google 可正常访问</h2><p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/4.png" alt=""></p><h2 id="测试-YouTube-1080p-没有问题"><a href="#测试-YouTube-1080p-没有问题" class="headerlink" title="测试 YouTube 1080p 没有问题"></a>测试 YouTube 1080p 没有问题</h2><p><img src="https://github.com/yoocl/material/raw/master/img/free-ss/5.png" alt=""></p></blockquote>]]></content>
       
       
       <categories>
@@ -113,11 +113,11 @@
       
         <tags>
             
-            <tag> js脚本 </tag>
-            
             <tag> Flex </tag>
             
             <tag> 补丁 </tag>
+            
+            <tag> js脚本 </tag>
             
         </tags>
       
@@ -235,11 +235,11 @@
             
             <tag> workflow </tag>
             
-            <tag> 快捷指令 </tag>
-            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
             
             <tag> 福利 </tag>
             
@@ -297,11 +297,11 @@
             
             <tag> workflow </tag>
             
+            <tag> 更新器 </tag>
+            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
-            
-            <tag> 更新器 </tag>
             
         </tags>
       
@@ -384,17 +384,17 @@
       
         <tags>
             
-            <tag> js脚本 </tag>
-            
-            <tag> jsbox </tag>
-            
             <tag> workflow </tag>
-            
-            <tag> 快捷指令 </tag>
             
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
+            
+            <tag> js脚本 </tag>
+            
+            <tag> jsbox </tag>
             
             <tag> pin </tag>
             
@@ -423,11 +423,11 @@
             
             <tag> workflow </tag>
             
-            <tag> 快捷指令 </tag>
-            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
             
         </tags>
       
@@ -483,11 +483,11 @@
             
             <tag> workflow </tag>
             
-            <tag> 快捷指令 </tag>
-            
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
+            
+            <tag> 快捷指令 </tag>
             
             <tag> Flex </tag>
             
@@ -603,11 +603,11 @@
       
         <tags>
             
+            <tag> 更新器 </tag>
+            
             <tag> js脚本 </tag>
             
             <tag> jsbox </tag>
-            
-            <tag> 更新器 </tag>
             
             <tag> pin </tag>
             
