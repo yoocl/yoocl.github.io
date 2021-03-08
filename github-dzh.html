@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
-  <title>【js脚本】轻量级web浏览器 更新至 1.1 版本 | 小良、Blog</title>
+  <title>一台电脑使用两个/多个GitHub账号部署两个/多个Hexo博客 | 小良、Blog</title>
   
   <meta name="keywords" content="小良更新器,workflow,pin,jsbox,vip解析,教程,workflow规则,js脚本,捷径,捷径大全,捷径规则,小良,iPhone 8、小良,小良官网,小良网站">
   
@@ -162,13 +162,13 @@
   <div class="meta" id="header-meta">
     
       
-          <h1 class="title">【js脚本】轻量级web浏览器 更新至 1.1 版本</h1>
+          <h1 class="title">一台电脑使用两个/多个GitHub账号部署两个/多个Hexo博客</h1>
       
     
 
     
       <time class="metatag time">
-        <i class="fas fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;2019-01-25
+        <i class="fas fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;2018-01-30
       </time>
     
 
@@ -176,7 +176,7 @@
       
     
     <div class="metatag cats">
-        <i class="fas fa-folder-open fa-fw" aria-hidden="true"></i>&nbsp;<a class="categories" href="/categories/脚本/">脚本</a>
+        <i class="fas fa-folder-open fa-fw" aria-hidden="true"></i>&nbsp;<a class="categories" href="/categories/pc/">pc</a>
     </div>
 
 
@@ -197,43 +197,62 @@
 
     <section class="article typo">
       <div class="article-entry" itemprop="articleBody">
-        <p><img src="https://github.com/yoocl/material/raw/master/img/js-web/0.png" alt=""></p>
-<a id="more"></a>
-<h2 id="不用梯子也能浏览被墙网站"><a href="#不用梯子也能浏览被墙网站" class="headerlink" title="不用梯子也能浏览被墙网站"></a><strong>不用梯子也能浏览被墙网站</strong></h2><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote>
-<p>2019-1-25 更新<br>　<br>修复部分点击无反映问题！</p>
-</blockquote>
-<h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote>
-<p>这里的js脚本是指，运行在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">jsbox</a> 软件上的 <strong>JavaScript</strong> 脚本程序。安装脚本前首先你的手机必须有安装这个App。<br>　<br>没有安装的请到（<a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">App Store</a>）苹果商店搜索安装。</p>
-</blockquote>
-<h1 id="脚本介绍"><a href="#脚本介绍" class="headerlink" title="脚本介绍"></a><strong>脚本介绍</strong></h1><blockquote>
-<ol>
-<li>无需翻墙即可浏览被墙网站</li>
-<li>轻量级不能播放YouTube视频</li>
-<li>只能轻度查询一些质料或预览一些网站</li>
-</ol>
-</blockquote>
-<h1 id="脚本预览"><a href="#脚本预览" class="headerlink" title="脚本预览"></a><strong>脚本预览</strong></h1><blockquote>
-<p><img src="https://github.com/yoocl/material/raw/master/img/js-web/1.png" alt=""></p>
-</blockquote>
-<h1 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装"></a><strong>脚本安装</strong></h1><blockquote>
-<h3 id="密码：【ae85】"><a href="#密码：【ae85】" class="headerlink" title="密码：【ae85】"></a><strong>密码：【ae85】</strong></h3><p>直链安装：<br><a href="https://ae85.cn/jsbox/web.html" target="_blank" rel="noopener">https://ae85.cn/jsbox/web.html</a>
-　</p>
+        <a id="more"></a>
+<p>由于个人原因需要在一台电脑上部署两个Hexo博客，本来以为挺简单，没想到问题重重，首先是一个GitHub账号只能搭建一个Hexo博客，因此就需要使用其他GitHub账号；其次是一台电脑绑定两个GitHub账号，则需要两对公钥，在处理第二个问题时遇到的问题比较多，因为对这方面一窍不通，还是小白，所以折腾了一下午才解决，网上好多教程我都看不懂，觉得不（自）够（己）详（太）细（笨），因此详细记录一下</p>
+<p>原理分析：</p>
 <blockquote>
-<p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="https://mp.weixin.qq.com/s/9E86yTg1Nwm7XuZeOqhVLQ" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p>
+<ul>
+<li>SSH的公钥是GitHub作为本地仓库和远程仓库连接的唯一标识，一个公钥只能对应一个GitHub账户，如果将一个相同的公钥上传到不同的GitHub账户，GitHub则无法做出辨识，进而导致错误</li>
+<li>一台电脑，可以生成多对公私钥，可以通过配置，将不同的公钥上传到不同的GitHub账号，那么就不存在单个公钥绑定多个GitHub账号的情况存在了</li>
+</ul>
 </blockquote>
+<p>相关问题报错：</p>
+<blockquote>
+<ul>
+<li>同一台电脑部署第二个Hexo博客执行<code>hexo g -d</code>时报错：<code>ERROR: Permission to xxxxxx/xxxxxx.github.io.git denied to xxxxxx.</code></li>
+<li>添加新的 SSH 密钥 到 SSH agent 执行<code>ssh-add xxx</code>时报错：<code>Could not open a connection to your authentication agent.</code></li>
+<li>单独设置用户名/邮箱时报错：<code>fatal: not in a git directory</code></li>
+</ul>
 </blockquote>
+<hr>
+<p>以下是详细过程：<br>前提：假设你的第二个博客相关配置操作已经顺利完成，但使用<code>hexo g -d</code>命令部署到 GitHub 上时报错：<code>ERROR: Permission to xxxxxx/xxxxxx.github.io.git denied to xxxxxx.</code></p>
+<h1 id="查看当前密钥"><a href="#查看当前密钥" class="headerlink" title="查看当前密钥"></a><strong>查看当前密钥</strong></h1><p>首先我们打开终端输入<code>ls ~/.ssh/</code>可以查看当前已有的密钥，显示 <code>id_rsa</code> 与 <code>id_rsa_pub</code> 说明已经有一对密钥</p>
+<h1 id="创建新的密钥"><a href="#创建新的密钥" class="headerlink" title="创建新的密钥"></a><strong>创建新的密钥</strong></h1><p>首先使用以下命令进入 SSH根目录下：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> ~/.ssh/</span><br></pre></td></tr></table></figure></p>
+<h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><p>直接使用以下命令创建新密钥，然后两次回车即可：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -f  ~/.ssh/这里是新密钥名称 -C <span class="string">"这里是你的邮箱"</span></span><br></pre></td></tr></table></figure></p>
+<p>注意区别新密钥名称和旧密钥名称，不要相同！！！</p>
+<h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h2><p>使用下面命令行创建新密钥：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C <span class="string">"这里是你的邮箱"</span></span><br></pre></td></tr></table></figure>
+<p>回车后会出现：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Generating public/private rsa key pair.  </span><br><span class="line">Enter file <span class="keyword">in</span> <span class="built_in">which</span> to save the key (/c/Users/you/.ssh/id_rsa):</span><br></pre></td></tr></table></figure></p>
+<p>注意此时需要你输入新密钥的名称，同样要注意区别新密钥名称和旧密钥名称，不要相同！！！之后再两次回车，新密钥创建完毕！</p>
+<h1 id="配置config"><a href="#配置config" class="headerlink" title="配置config"></a><strong>配置config</strong></h1><p>查看你的.ssh/根路径下, 有没有config文件,（ 比如我的路径为C:\Users\Lenovo.ssh）没有则使用以下命令创建一个config文件：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">touch config</span><br></pre></td></tr></table></figure></p>
+<p>用记事本或者其他工具打开config文件（注意config文件是没有任何后缀名的），写入以下配置：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#第一个账号，默认使用的账号，不用做任何更改</span></span><br><span class="line">Host github.com</span><br><span class="line">	HostName github.com</span><br><span class="line">	User git</span><br><span class="line">	IdentityFile ~/.ssh/id_rsa</span><br><span class="line">	</span><br><span class="line"><span class="comment">#第二个新账号，#"xxxxxx"为前缀名，可以任意设置，要记住，后面需要用到</span></span><br><span class="line">Host xxxxxx.github.com</span><br><span class="line">	HostName github.com</span><br><span class="line">	User git</span><br><span class="line">	IdentityFile ~/.ssh/这里是你创建的新密钥的名称</span><br></pre></td></tr></table></figure></p>
+<h1 id="设置新GitHub账户SSH-key"><a href="#设置新GitHub账户SSH-key" class="headerlink" title="设置新GitHub账户SSH key"></a><strong>设置新GitHub账户SSH key</strong></h1><p>输入以下命令复制你创建的公钥：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">clip &lt; ~/.ssh/这里是你创建的新密钥的名称.pub</span><br></pre></td></tr></table></figure></p>
+<p>也可以直接在.ssh目录下找到你创建的新的公钥，文件名为<code>新密钥的名称.pub</code>，（比如我的是<code>trhx_rsa.pub</code>），用记事本打开，复制里面的内容，然后打开你的新GitHub账号主页，依次进入Settings —&gt; SSH and GPG keys —&gt; New SSH key，将刚复制的内容粘贴到Key那里，Title可以随便填，点击Add Key保存。</p>
+<h1 id="清空本地的-SSH-缓存，添加新的-SSH-密钥-到-SSH-agent中"><a href="#清空本地的-SSH-缓存，添加新的-SSH-密钥-到-SSH-agent中" class="headerlink" title="清空本地的 SSH 缓存，添加新的 SSH 密钥 到 SSH agent中"></a><strong>清空本地的 SSH 缓存，添加新的 SSH 密钥 到 SSH agent中</strong></h1><p>使用命令<code>cd ~/.sshcd</code>到.ssh根目录下，依次执行以下命令：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ssh-add -D</span><br><span class="line">ssh-add xxxxxx <span class="comment">#旧密钥名称，一般是id_rsa</span></span><br><span class="line">ssh-add xxxxxx <span class="comment">#新创建的密钥名称</span></span><br></pre></td></tr></table></figure></p>
+<p>如果执行以上命令出现错误：<code>Could not open a connection to your authentication agent.</code>，那么就需要先执行<code>ssh-agent bash</code>，再执行以上命令</p>
+<h1 id="验证配置是否成功"><a href="#验证配置是否成功" class="headerlink" title="验证配置是否成功"></a><strong>验证配置是否成功</strong></h1><p>依次执行以下命令，第一个为默认ssh_key验证；第二个为新的ssh_key验证，其中“xxxxxx”为你先前在config文件中的命名<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br><span class="line">ssh -T git@xxxxxxx.github.com</span><br></pre></td></tr></table></figure></p>
+<p>依次显示以下信息, 则说明配置成功：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Hi 你的用户名! You<span class="string">'ve successfully authenticated, but GitHub does not provide shell access.</span></span><br></pre></td></tr></table></figure></p>
+<h1 id="取消全局用户名-邮箱配置，单独设置用户名-邮箱"><a href="#取消全局用户名-邮箱配置，单独设置用户名-邮箱" class="headerlink" title="取消全局用户名/邮箱配置，单独设置用户名/邮箱"></a><strong>取消全局用户名/邮箱配置，单独设置用户名/邮箱</strong></h1><p>执行如下命令，取消全局用户名和邮箱配置（如果已经设置了全局的话）：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global --<span class="built_in">unset</span> user.name</span><br><span class="line">git config --global --<span class="built_in">unset</span> user.email</span><br></pre></td></tr></table></figure></p>
+<p>分别进入你的两个Hexo博客.git目录下执行以下命令单独设置用户名/邮箱：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config user.name <span class="string">"这里是用户名"</span></span><br><span class="line">git config user.email <span class="string">"这里是你的邮箱"</span></span><br></pre></td></tr></table></figure></p>
+<p>如果此时报错：<code>fatal: not in a git directory</code>，说明你没有进入.git目录下，具体路径：\Hexo.deploy_git.git，.git目录是隐藏的，需要你设置隐藏目录可见</p>
+<p>执行以下命令可以查看设置是否成功<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --list</span><br></pre></td></tr></table></figure></p>
+<h1 id="hexo-配置文件修改git地址"><a href="#hexo-配置文件修改git地址" class="headerlink" title="hexo 配置文件修改git地址"></a><strong>hexo 配置文件修改git地址</strong></h1><p>打开你的第二个博客Hexo目录下的_config.yml文件，找到deploy关键字，写入以下配置并保存：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  <span class="built_in">type</span>: git</span><br><span class="line">  repository: git@xxxxxx.github.com:你的用户名/你的用户名.github.io.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
+<p>比如我的配置：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  <span class="built_in">type</span>: git</span><br><span class="line">  repository: git@love109.github.com:love109/love109.github.io.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
+<p>大功告成，再次执行hexo g -d就能成功将新的博客部署到 Github 上了</p>
 
       </div>
         
           <section class="meta" id="footer-meta">
             
-              <time class="metatag time" itemprop="dateUpdated" datetime="2020-02-20T00:21:24+08:00" content="2020-02-20"><i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>
-                &nbsp;2020-02-20
+              <time class="metatag time" itemprop="dateUpdated" datetime="2021-03-08T13:38:05+08:00" content="2021-03-08"><i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>
+                &nbsp;2021-03-08
               </time>
             
             
                 
-                <div class="metatag tags"><a class="tag" href="/tags/js脚本/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>&nbsp;js脚本</a></div> <div class="metatag tags"><a class="tag" href="/tags/ss/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>&nbsp;ss</a></div> <div class="metatag tags"><a class="tag" href="/tags/梯子/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>&nbsp;梯子</a></div> <div class="metatag tags"><a class="tag" href="/tags/jsbox/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>&nbsp;jsbox</a></div> <div class="metatag tags"><a class="tag" href="/tags/pin/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>&nbsp;pin</a></div> <div class="metatag tags"><a class="tag" href="/tags/翻墙/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>&nbsp;翻墙</a></div>
+                <div class="metatag tags"><a class="tag" href="/tags/教程/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>&nbsp;教程</a></div> <div class="metatag tags"><a class="tag" href="/tags/Git/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>&nbsp;Git</a></div> <div class="metatag tags"><a class="tag" href="/tags/博客/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>&nbsp;博客</a></div>
             
             
               
@@ -250,7 +269,7 @@
         
       
         
-          <a class="-mob-share-qq" title="QQ好友" rel="external nofollow noopener noreferrer" href="http://connect.qq.com/widget/shareqq/index.html?url=https://87xl.cn/js-web.html&title=【js脚本】轻量级web浏览器 更新至 1.1 版本 | 小良、Blog&summary=">
+          <a class="-mob-share-qq" title="QQ好友" rel="external nofollow noopener noreferrer" href="http://connect.qq.com/widget/shareqq/index.html?url=https://87xl.cn/github-dzh.html&title=一台电脑使用两个/多个GitHub账号部署两个/多个Hexo博客 | 小良、Blog&summary=">
             
               <img src="https://cdn.jsdelivr.net/gh/xaoxuu/assets@19.1.9/logo/128/qq.png">
             
@@ -258,7 +277,7 @@
         
       
         
-          <a class="-mob-share-qzone" title="QQ空间" rel="external nofollow noopener noreferrer" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://87xl.cn/js-web.html&title=【js脚本】轻量级web浏览器 更新至 1.1 版本 | 小良、Blog&summary=">
+          <a class="-mob-share-qzone" title="QQ空间" rel="external nofollow noopener noreferrer" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://87xl.cn/github-dzh.html&title=一台电脑使用两个/多个GitHub账号部署两个/多个Hexo博客 | 小良、Blog&summary=">
             
               <img src="https://cdn.jsdelivr.net/gh/xaoxuu/assets@19.1.9/logo/128/qzone.png">
             
@@ -266,7 +285,7 @@
         
       
         
-          <a class="qrcode" rel="external nofollow noopener noreferrer" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAACuCAAAAACKZ2kyAAABy0lEQVR42u3ay04DMQwF0P7/Tw9bJNr02p6Egk5WFR0yBxaWX49HfK5v5+fP18/kt912cHFxx9xredbPnLwBFxf3PPdVxFh/7j3/iru+ExcX969w18EoCZe4uLj/g5uXMevyBhcX9/O5eaBZN0cmAfHmWg0XF3fAzbuU+z5v6e/i4uK2uFfxJIFsPVzJg9eTt+Pi4h7h5gElH4QkI9jROBYXF3czd1KW5IgEFzVecXFxD3InS1e9lKX5D8LFxT3CraY1u9sfoxtwcXE3c5PyJkl38jsn6REuLu4O7qShmQemycSkEO1wcXHH3GRMsn593vLoRdaXtRouLu42bnU9q7eGlRdR+VgXFxd3H7cXwvI/I8dFgRIXF/cIt9oQ6bU2qkXRba1SXFzcATdPYvKgUx2y5m1ZXFzcT+DmyU0+Is3bKE+ex8XFPc7ttT57C1jNAQwuLu5m7lU8k5SoPPvFxcX9Je5kJaL6gjyRqg5xcXFxd3DnwauX0OQJU3kajIuLexP3rqJoHv4KtRouLu6HcXuLXL1v3/R3cXFxP4y7HrdEu6LFhQxcXNyT3OoCVrUEqv7umyErLi7uZu6k3dkbrEYLWPP+Li4ubof7BSzk4jFM07yEAAAAAElFTkSuQmCC">
+          <a class="qrcode" rel="external nofollow noopener noreferrer" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAACuCAAAAACKZ2kyAAABxElEQVR42u3aS27DMAwFwNz/0u4BCtmP1MdNMVoVaSuPsiAoPn8+8boG6/dvR5+M9vzsWLi4uNPc63YlW4+go/+6P97DDri4uAe5OSKpMAk9+TpwcXG/hdtDV/8GFxf3W7hJgcPFxf1P3Hzw0RuCVAvlgrsaLi7uBLe39dqft8x3cXFxW9xrYt3vk+DKT8TFxT3CXXXJ6R2pGtni4uKe5K5tRHqRSTm8wcXF3czNX7moFq/8MIUvCBcXdzO3NxhN6mK1nEUtDi4u7hFutdHpXXjy5qbcWuHi4m7g9gKP+Zao2r3g4uKe5N4/fmbwUQ1X7vfExcU9z00eeb/FTMhabbZwcXFPcqvFq1cQ82FKmYiLi7uIuyCHmbgsJccY3tVwcXG3cfPmZlXLksczhfgEFxd3Kbcab+R9U++oDxcnXFzcI9y1j8/HHNVLFC4u7knuVVx5GcobpuYrm7i4uNu41YFpNVbJi2M5ZMXFxd3MzYtX9ZPkGEmZw8XFfYubF5qZALUa1kb5Dy4u7qvcpGzlL1jko1JcXNy/zM1fsHiY0b7b4uDi4m67/FQjk2TwUQhZcXFxN3PzgWlSgHrHWByo4OLi9rk/OcbIL6Yc674AAAAASUVORK5CYII=">
           
             <img src="https://cdn.jsdelivr.net/gh/xaoxuu/assets@19.1.9/logo/128/wechat.png">
           
@@ -274,7 +293,7 @@
         
       
         
-          <a class="-mob-share-weibo" title="微博" rel="external nofollow noopener noreferrer" href="http://service.weibo.com/share/share.php?url=https://87xl.cn/js-web.html&title=【js脚本】轻量级web浏览器 更新至 1.1 版本 | 小良、Blog&summary=">
+          <a class="-mob-share-weibo" title="微博" rel="external nofollow noopener noreferrer" href="http://service.weibo.com/share/share.php?url=https://87xl.cn/github-dzh.html&title=一台电脑使用两个/多个GitHub账号部署两个/多个Hexo博客 | 小良、Blog&summary=">
             
               <img src="https://cdn.jsdelivr.net/gh/xaoxuu/assets@19.1.9/logo/128/weibo.png">
             
@@ -290,7 +309,7 @@
         
       
         
-          <a class="qrcode" rel="external nofollow noopener noreferrer" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAACuCAAAAACKZ2kyAAABy0lEQVR42u3ay04DMQwF0P7/Tw9bJNr02p6Egk5WFR0yBxaWX49HfK5v5+fP18/kt912cHFxx9xredbPnLwBFxf3PPdVxFh/7j3/iru+ExcX969w18EoCZe4uLj/g5uXMevyBhcX9/O5eaBZN0cmAfHmWg0XF3fAzbuU+z5v6e/i4uK2uFfxJIFsPVzJg9eTt+Pi4h7h5gElH4QkI9jROBYXF3czd1KW5IgEFzVecXFxD3InS1e9lKX5D8LFxT3CraY1u9sfoxtwcXE3c5PyJkl38jsn6REuLu4O7qShmQemycSkEO1wcXHH3GRMsn593vLoRdaXtRouLu42bnU9q7eGlRdR+VgXFxd3H7cXwvI/I8dFgRIXF/cIt9oQ6bU2qkXRba1SXFzcATdPYvKgUx2y5m1ZXFzcT+DmyU0+Is3bKE+ex8XFPc7ttT57C1jNAQwuLu5m7lU8k5SoPPvFxcX9Je5kJaL6gjyRqg5xcXFxd3DnwauX0OQJU3kajIuLexP3rqJoHv4KtRouLu6HcXuLXL1v3/R3cXFxP4y7HrdEu6LFhQxcXNyT3OoCVrUEqv7umyErLi7uZu6k3dkbrEYLWPP+Li4ubof7BSzk4jFM07yEAAAAAElFTkSuQmCC">
+          <a class="qrcode" rel="external nofollow noopener noreferrer" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAACuCAAAAACKZ2kyAAABxElEQVR42u3aS27DMAwFwNz/0u4BCtmP1MdNMVoVaSuPsiAoPn8+8boG6/dvR5+M9vzsWLi4uNPc63YlW4+go/+6P97DDri4uAe5OSKpMAk9+TpwcXG/hdtDV/8GFxf3W7hJgcPFxf1P3Hzw0RuCVAvlgrsaLi7uBLe39dqft8x3cXFxW9xrYt3vk+DKT8TFxT3CXXXJ6R2pGtni4uKe5K5tRHqRSTm8wcXF3czNX7moFq/8MIUvCBcXdzO3NxhN6mK1nEUtDi4u7hFutdHpXXjy5qbcWuHi4m7g9gKP+Zao2r3g4uKe5N4/fmbwUQ1X7vfExcU9z00eeb/FTMhabbZwcXFPcqvFq1cQ82FKmYiLi7uIuyCHmbgsJccY3tVwcXG3cfPmZlXLksczhfgEFxd3Kbcab+R9U++oDxcnXFzcI9y1j8/HHNVLFC4u7knuVVx5GcobpuYrm7i4uNu41YFpNVbJi2M5ZMXFxd3MzYtX9ZPkGEmZw8XFfYubF5qZALUa1kb5Dy4u7qvcpGzlL1jko1JcXNy/zM1fsHiY0b7b4uDi4m67/FQjk2TwUQhZcXFxN3PzgWlSgHrHWByo4OLi9rk/OcbIL6Yc674AAAAASUVORK5CYII=">
           
             <img src="https://cdn.jsdelivr.net/gh/xaoxuu/assets@19.1.9/logo/128/qrcode.png">
           
@@ -312,40 +331,21 @@
                         <span class="art-item-left">
                             <h6><i class="fas fa-chevron-left" aria-hidden="true"></i>&nbsp;上一页</h6>
                             <h4>
-                                <a href="/js-gxq.html" rel="prev" title="【js脚本】小良 - 更新器 更新至2.6版本">
+                                <a href="/bz-iphonex.html" rel="prev" title="【壁纸】iPhone x (分享两张自用壁纸 5.8``的)">
                                   
-                                      【js脚本】小良 - 更新器 更新至2.6版本
+                                      【壁纸】iPhone x (分享两张自用壁纸 5.8``的)
                                   
                                 </a>
                             </h4>
                             
                                 
                                 <h6 class="tags">
-                                    <a class="tag" href="/tags/js脚本/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>js脚本</a> <a class="tag" href="/tags/jsbox/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>jsbox</a> <a class="tag" href="/tags/更新器/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>更新器</a> <a class="tag" href="/tags/pin/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>pin</a>
+                                    <a class="tag" href="/tags/壁纸/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>壁纸</a>
                                 </h6>
                             
                         </span>
                     </section>
                 
-                
-                    <section class="next">
-                        <span class="art-item-right" aria-hidden="true">
-                            <h6>下一页&nbsp;<i class="fas fa-chevron-right" aria-hidden="true"></i></h6>
-                            <h4>
-                                <a href="/js-sszb.html" rel="prev" title="【js脚本】赛事直播 更新至 1.5 版本">
-                                    
-                                        【js脚本】赛事直播 更新至 1.5 版本
-                                    
-                                </a>
-                            </h4>
-                            
-                                
-                                <h6 class="tags">
-                                    <a class="tag" href="/tags/js脚本/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>js脚本</a> <a class="tag" href="/tags/jsbox/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>jsbox</a> <a class="tag" href="/tags/pin/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>pin</a> <a class="tag" href="/tags/直播/"><i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>直播</a>
-                                </h6>
-                            
-                        </span>
-                    </section>
                 
             </div>
         
@@ -373,9 +373,9 @@
         <h4><i class="fas fa-bookmark fa-fw" aria-hidden="true"></i>&nbsp;相关文章</h4>
         <ul>
             
-                <li><a href="https://87xl.cn/qt-zfbwf.html">支付宝五福快速集齐方法 - 你还差敬业福吗？看这里</a></li>
-            
                 <li><a href="https://87xl.cn/js-gxq.html">【js脚本】小良 - 更新器 更新至2.6版本</a></li>
+            
+                <li><a href="https://87xl.cn/js-web.html">【js脚本】轻量级web浏览器 更新至 1.1 版本</a></li>
             
                 <li><a href="https://87xl.cn/js-sszb.html">【js脚本】赛事直播 更新至 1.5 版本</a></li>
             
@@ -408,7 +408,7 @@
 
 <script>
     window.subData = {
-        title: '【js脚本】轻量级web浏览器 更新至 1.1 版本',
+        title: '一台电脑使用两个/多个GitHub账号部署两个/多个Hexo博客',
         tools: true
     }
 </script>
@@ -663,7 +663,7 @@
 </header>
 
     <div class="content pure">
-      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#不用梯子也能浏览被墙网站"><span class="toc-text">不用梯子也能浏览被墙网站</span></a></li></ol><li class="toc-item toc-level-1"><a class="toc-link" href="#更新内容"><span class="toc-text">更新内容</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#使用前言"><span class="toc-text">使用前言</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#脚本介绍"><span class="toc-text">脚本介绍</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#脚本预览"><span class="toc-text">脚本预览</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#脚本安装"><span class="toc-text">脚本安装</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#密码：【ae85】"><span class="toc-text">密码：【ae85】</span></a></li></ol></li>
+      <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#查看当前密钥"><span class="toc-text">查看当前密钥</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#创建新的密钥"><span class="toc-text">创建新的密钥</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#方法一"><span class="toc-text">方法一</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#方法二"><span class="toc-text">方法二</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#配置config"><span class="toc-text">配置config</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#设置新GitHub账户SSH-key"><span class="toc-text">设置新GitHub账户SSH key</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#清空本地的-SSH-缓存，添加新的-SSH-密钥-到-SSH-agent中"><span class="toc-text">清空本地的 SSH 缓存，添加新的 SSH 密钥 到 SSH agent中</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#验证配置是否成功"><span class="toc-text">验证配置是否成功</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#取消全局用户名-邮箱配置，单独设置用户名-邮箱"><span class="toc-text">取消全局用户名/邮箱配置，单独设置用户名/邮箱</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#hexo-配置文件修改git地址"><span class="toc-text">hexo 配置文件修改git地址</span></a></li></ol>
     </div>
   </section>
 
