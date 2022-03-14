@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>【js脚本】短视频下载器 2.9 - 更新</title>
+      <link href="/js-dspxz.html"/>
+      <url>/js-dspxz.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/0.jpg" alt=""></p><a id="more"></a><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote><p>2022-03-14 更新<br>　<br>修复：无法大部分平台视频无法解析问题<br>　<br>取消：脚本密码验证。<br>　<br>保持：长按 解析 按钮,自动提取剪贴板链接中的视频。<br>　<br>保持：主界面（清新干净）</p></blockquote><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这里的js脚本是指，运行在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">jsbox</a> 软件上的 <strong>JavaScript</strong> 脚本程序。安装脚本前首先你的手机必须有安装这个App。<br>　<br>没有安装的请到（<a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">App Store</a>）苹果商店搜索安装。</p></blockquote><h1 id="脚本介绍"><a href="#脚本介绍" class="headerlink" title="脚本介绍"></a><strong>脚本介绍</strong></h1><blockquote><p>脚本支持 JSBox 同时也支持 Pin 软件。<br>　<br>脚本集成了多个短视频网的视频下载，大部分都支持无水印下载，如（小红书、快手、微频、等等）<br>　<br>脚本目前已支持：微信公众号视频、小红书去水印、快手短视频无水印、某音去水印、某音国际版去水印、某条去水印、 某某虾去水印、某山，微博，秒拍，美拍，陌陌，小影，全民小视频，映客 等平台的视频下载。</p></blockquote><h1 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a><strong>使用说明</strong></h1><blockquote><p>复制视频链接后运行脚本选择相对应的平台可提取无水印视频</p></blockquote><h1 id="视频演示"><a href="#视频演示" class="headerlink" title="视频演示"></a><strong>视频演示</strong></h1><blockquote><p><video id="video" controls preload="none" width="100%" poster="https://github.com/yoocl/material/raw/master/img/js-dspxz/0.jpg"><br>      <source id="mp4" src="http://t.cn/E49YWj6" type="video/mp4"><br></video><br>　<br>视频地址：<a href="http://t.cn/E49YWj6" target="_blank" rel="noopener">http://t.cn/E49YWj6</a></p></blockquote><h1 id="脚本预览"><a href="#脚本预览" class="headerlink" title="脚本预览"></a><strong>脚本预览</strong></h1><p><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/1.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/2.png" alt=""></p><h1 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装"></a><strong>脚本安装</strong></h1><blockquote><p>直链安装：<br><a href="https://ae85.cn/jsbox/dsp.html" target="_blank" rel="noopener">https://ae85.cn/jsbox/dsp.html</a><br>　<br>js版或wf版【<a href="/js-gxq.html"> 小良 - 更新器</a> 】 均可获取安装。</p><blockquote><p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="https://mp.weixin.qq.com/s/9E86yTg1Nwm7XuZeOqhVLQ" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p></blockquote></blockquote><h1 id="关注公众号"><a href="#关注公众号" class="headerlink" title="关注公众号"></a><strong>关注公众号</strong></h1><blockquote><p>关注公众号第一时间推送最新消息。　</p></blockquote><p><img src="https://github.com/yoocl/material/raw/master/640.gif" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> js脚本 </tag>
+            
+            <tag> jsbox </tag>
+            
+            <tag> pin </tag>
+            
+            <tag> 去水印 </tag>
+            
+            <tag> 视频下载 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【js脚本】free-ss (免费ss) 修复更新1.4</title>
       <link href="/free-ss.html"/>
       <url>/free-ss.html</url>
@@ -56,39 +89,6 @@
             <tag> TG </tag>
             
             <tag> Telegram </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>【js脚本】短视频下载器 2.8 - 更新</title>
-      <link href="/js-dspxz.html"/>
-      <url>/js-dspxz.html</url>
-      
-        <content type="html"><![CDATA[<p><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/0.jpg" alt=""></p><a id="more"></a><h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a><strong>更新内容</strong></h1><blockquote><p>2020-07-01 更新<br>　<br>新增：YouTube视频下载<br>　<br>取消：脚本密码验证。<br>　<br>保持：长按 解析 按钮,自动提取剪贴板链接中的视频。<br>　<br>保持：主界面（清新干净）</p></blockquote><h1 id="使用前言"><a href="#使用前言" class="headerlink" title="使用前言"></a><strong>使用前言</strong></h1><blockquote><p>这里的js脚本是指，运行在 <a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">jsbox</a> 软件上的 <strong>JavaScript</strong> 脚本程序。安装脚本前首先你的手机必须有安装这个App。<br>　<br>没有安装的请到（<a href="https://itunes.apple.com/cn/app/jsbox-%E5%AD%A6%E4%B9%A0%E5%86%99%E4%BB%A3%E7%A0%81/id1312014438?mt=8" target="_blank" rel="noopener">App Store</a>）苹果商店搜索安装。</p></blockquote><h1 id="脚本介绍"><a href="#脚本介绍" class="headerlink" title="脚本介绍"></a><strong>脚本介绍</strong></h1><blockquote><p>脚本支持 JSBox 同时也支持 Pin 软件。<br>　<br>脚本集成了多个短视频网的视频下载，大部分都支持无水印下载，如（小红书、快手、微频、等等）<br>　<br>脚本目前已支持：微信公众号视频、小红书去水印、快手短视频无水印、某音去水印、某音国际版去水印、某条去水印、 某某虾去水印、某山，微博，秒拍，美拍，陌陌，小影，全民小视频，映客 等平台的视频下载。</p></blockquote><h1 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a><strong>使用说明</strong></h1><blockquote><p>复制视频链接后运行脚本选择相对应的平台可提取无水印视频</p></blockquote><h1 id="视频演示"><a href="#视频演示" class="headerlink" title="视频演示"></a><strong>视频演示</strong></h1><blockquote><p><video id="video" controls preload="none" width="100%" poster="https://github.com/yoocl/material/raw/master/img/js-dspxz/0.jpg"><br>      <source id="mp4" src="http://t.cn/E49YWj6" type="video/mp4"><br></video><br>　<br>视频地址：<a href="http://t.cn/E49YWj6" target="_blank" rel="noopener">http://t.cn/E49YWj6</a></p></blockquote><h1 id="脚本预览"><a href="#脚本预览" class="headerlink" title="脚本预览"></a><strong>脚本预览</strong></h1><p><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/1.png" alt=""><br><img src="https://github.com/yoocl/material/raw/master/img/js-dspxz/2.png" alt=""></p><h1 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装"></a><strong>脚本安装</strong></h1><blockquote><p>直链安装：<br><a href="https://ae85.cn/jsbox/dsp.html" target="_blank" rel="noopener">https://ae85.cn/jsbox/dsp.html</a><br>　<br>js版或wf版【<a href="/js-gxq.html"> 小良 - 更新器</a> 】 均可获取安装。</p><blockquote><p>注：如果添加不了，请使用复制代码的方式添加。请参考下面文章：<br><a href="https://mp.weixin.qq.com/s/9E86yTg1Nwm7XuZeOqhVLQ" target="_blank" rel="noopener">关于JSBox无法安装脚本的解决方法</a></p></blockquote></blockquote><h1 id="关注公众号"><a href="#关注公众号" class="headerlink" title="关注公众号"></a><strong>关注公众号</strong></h1><blockquote><p>关注公众号第一时间推送最新消息。　</p></blockquote><p><img src="https://github.com/yoocl/material/raw/master/640.gif" alt=""></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 脚本 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> js脚本 </tag>
-            
-            <tag> jsbox </tag>
-            
-            <tag> pin </tag>
-            
-            <tag> 去水印 </tag>
-            
-            <tag> 视频下载 </tag>
             
         </tags>
       
@@ -200,11 +200,11 @@
       
         <tags>
             
+            <tag> 谷歌 </tag>
+            
             <tag> 插件 </tag>
             
             <tag> 扩展 </tag>
-            
-            <tag> 谷歌 </tag>
             
             <tag> 浏览器 </tag>
             
@@ -746,11 +746,11 @@
       
         <tags>
             
-            <tag> 谷歌 </tag>
-            
             <tag> 网盘 </tag>
             
             <tag> cloudflare </tag>
+            
+            <tag> 谷歌 </tag>
             
         </tags>
       
