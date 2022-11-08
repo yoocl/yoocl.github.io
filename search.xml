@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>ios油猴脚本 - 效率神器、Safari浏览器必备工具</title>
+      <link href="/yh-safari.html"/>
+      <url>/yh-safari.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081847948.png" alt=""></p><a id="more"></a><blockquote><p><strong>自从IOS15系统新增了安装扩展功能，市面上就有很多app都支持像电脑上的油猴脚本了</strong></p></blockquote><p>有的朋友可能会问，什么是 “<code>油猴脚本</code>”？它能做什么？</p><p>简单来说，它可以让你的浏览器做到一些本身做不到的事情，比如屏蔽一些跳转，自动翻页，翻译，画中画，网页暗黑，刷票，破解等等 可以让你的浏览器无所不能。</p><h1 id="脚本管理工具："><a href="#脚本管理工具：" class="headerlink" title="脚本管理工具："></a><strong>脚本管理工具：</strong></h1><p>1、Userscripts<br>2、stay</p><p>这里推荐上面两款免费的脚本管理App，由于Userscripts 需要ios15.4以后的系统支持，小良目前使用的是15.0的系统，所以小良使用的是stay，下面也用stay做演示。</p><p><img src="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081847673.png" alt=""></p><h1 id="Stay-App-获取"><a href="#Stay-App-获取" class="headerlink" title="Stay App 获取"></a><strong>Stay App 获取</strong></h1><p>在 App Store（苹果商店）中搜索下载安装即可</p><h1 id="Stay-首次启用"><a href="#Stay-首次启用" class="headerlink" title="Stay 首次启用"></a><strong>Stay 首次启用</strong></h1><p><strong>方法①：</strong><br>打开Safari浏览器随便打开一个网页，点击地址栏上的 “<code>大小</code>“ 后选择 “<code>扩展管理</code>“ 然后开启 <code>Stay</code> 旁边的开关即可</p><p><img src="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081847678.png" alt=""></p><p><strong>方法②：</strong><br>打开手机 “<code>设置</code>“ 点击 “<code>Safari浏览器</code>“ 点击 “<code>扩展</code>“ 点击 “<code>Stay</code>“ 把开关打开即可</p><p><img src="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081848218.png" alt=""></p><h1 id="Stay-脚本安装"><a href="#Stay-脚本安装" class="headerlink" title="Stay 脚本安装"></a><strong>Stay 脚本安装</strong></h1><p>运行 <code>Stay</code> APP 点击右上角 <code>+</code> </p><p>1、编写脚本 - 可以使用复制脚本源码粘贴方式添加<br>2、从链接导入 - 可以粘贴 .js 链接的脚本地址方式添加<br>3、从GreasyFork导入 - 在油猴脚本仓库中方式添加<br>4、从文件导入 - 在系统自带文件管理方式添加<br>5、访问小良分享网站中添加 <a href="https://iphone8.vip/youhou.html" target="_blank" rel="noopener">https://iphone8.vip/youhou.html</a> </p><p><img src="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081851443.png" alt=""></p><h1 id="Stay-APP授权访问"><a href="#Stay-APP授权访问" class="headerlink" title="Stay APP授权访问"></a><strong>Stay APP授权访问</strong></h1><p>打开手机<code>设置</code> - <code>Safari浏览器</code> - <code>扩展</code>  -  <code>Stay</code>  -  “STAY”的权限 -  <code>所有网站</code> - 更改为 - <code>允许</code><br><img src="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081852341.jpg" alt=""></p><blockquote><p>！！！如果不给权限所有脚本将无法使用！！！</p></blockquote><hr><h1 id="下面分享几个小良写的脚本"><a href="#下面分享几个小良写的脚本" class="headerlink" title="下面分享几个小良写的脚本"></a><strong>下面分享几个小良写的脚本</strong></h1><p><strong>01 - 快速搜索</strong><br>在系统搜索框输入关键字+需要搜索的内容，即可跳转到对应的网站并搜索内容</p><p><strong>使用方法：</strong><br>在主屏幕下滑，搜索框中输入关键字+内容 然后选择 Safari图标选项 即可跳转</p><blockquote><p>注：需要把 Safari浏览器的 默认搜索修改为百度</p></blockquote><p><strong>演示视频：</strong></p><video id="video" controls preload="none" width="100%" poster="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081859339.png"><br>      <source id="mp4" src="http://3v.ae85.cn/api/streamja.php?url=https://streamja.com/aeZ9d" type="video/mp4"><br></video><p><strong>目前脚本内置搜索有：</strong><br><img src="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081902859.png" alt=""></p><p>当然你也可以 添加、修改或者删除您不需要的内置项<br><img src="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081911850.png" alt=""></p><p> 　</p><hr><p> 　</p><p><strong>02 - 豆瓣直接跳转茶杯狐搜索</strong><br>茶杯狐是一个影视资源聚合搜索引擎。安装脚本后豆瓣电影标题旁会显示茶杯狐的logo，点击就可以搜索影视资源了</p><p>搜索出来在标题旁边会多出一个狐狸的图标<br><img src="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081932830.jpg" alt=""></p><p><strong>视频演示：</strong></p><video id="video" controls preload="none" width="100%" poster="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081933449.png"><br>      <source id="mp4" src="http://3v.ae85.cn/api/streamja.php?url=https://streamja.com/qLA41" type="video/mp4"><br></video><p><strong>脚本网站：</strong><br><a href="https://iphone8.vip/youhou.html" target="_blank" rel="noopener">https://iphone8.vip/youhou.html</a></p><p>安装脚本后需要 <code>Stay</code> 软件中把脚本的 - <code>嵌入方式</code> - 修改为第二项 - <code>Page</code><br><img src="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081936125.png" alt=""></p><p> 　</p><hr><p> 　<br><strong>03 - 全网VIP视频自动解析</strong><br>无需跳转新网址，打开官网直接看，超清 无广告 随机去水印。支持：腾讯，爱奇艺，优酷，哔哩哔哩，咪咕，乐视，搜狐，芒果，西瓜，PPTV，1905电影网，华数。支持解析失败自动切换推荐解析源。适配各种浏览器。</p><p><strong>视频演示：</strong></p><video id="video" controls preload="none" width="100%" poster="https://cdn.jsdelivr.net/gh/yoocl/material@master/img/202211081944676.png"><br>      <source id="mp4" src="http://3v.ae85.cn/api/streamja.php?url=https://streamja.com/206JL" type="video/mp4"><br></video>]]></content>
+      
+      
+      <categories>
+          
+          <category> 脚本 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 油猴脚本 </tag>
+            
+            <tag> Safari扩展 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【js脚本】短视频下载器 2.9 - 更新</title>
       <link href="/js-dspxz.html"/>
       <url>/js-dspxz.html</url>
@@ -200,11 +227,11 @@
       
         <tags>
             
+            <tag> 谷歌 </tag>
+            
             <tag> 插件 </tag>
             
             <tag> 扩展 </tag>
-            
-            <tag> 谷歌 </tag>
             
             <tag> 浏览器 </tag>
             
@@ -607,9 +634,9 @@
             
             <tag> jsbox </tag>
             
-            <tag> pin </tag>
-            
             <tag> 更新器 </tag>
+            
+            <tag> pin </tag>
             
         </tags>
       
@@ -746,11 +773,11 @@
       
         <tags>
             
-            <tag> 谷歌 </tag>
-            
             <tag> 网盘 </tag>
             
             <tag> cloudflare </tag>
+            
+            <tag> 谷歌 </tag>
             
         </tags>
       
