@@ -140,11 +140,11 @@
       
         <tags>
             
+            <tag> js脚本 </tag>
+            
             <tag> Flex </tag>
             
             <tag> 补丁 </tag>
-            
-            <tag> js脚本 </tag>
             
         </tags>
       
@@ -411,6 +411,10 @@
       
         <tags>
             
+            <tag> js脚本 </tag>
+            
+            <tag> jsbox </tag>
+            
             <tag> workflow </tag>
             
             <tag> 快捷指令 </tag>
@@ -418,10 +422,6 @@
             <tag> 捷径 </tag>
             
             <tag> 规则 </tag>
-            
-            <tag> js脚本 </tag>
-            
-            <tag> jsbox </tag>
             
             <tag> pin </tag>
             

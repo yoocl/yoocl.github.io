@@ -142,11 +142,11 @@
       <category term="脚本" scheme="https://87xl.cn/categories/%E8%84%9A%E6%9C%AC/"/>
     
     
+      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
+    
       <category term="Flex" scheme="https://87xl.cn/tags/Flex/"/>
     
       <category term="补丁" scheme="https://87xl.cn/tags/%E8%A1%A5%E4%B8%81/"/>
-    
-      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
     
   </entry>
   
@@ -386,6 +386,10 @@
       <category term="规则" scheme="https://87xl.cn/categories/%E8%A7%84%E5%88%99/"/>
     
     
+      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
+    
+      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
+    
       <category term="workflow" scheme="https://87xl.cn/tags/workflow/"/>
     
       <category term="快捷指令" scheme="https://87xl.cn/tags/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/"/>
@@ -393,10 +397,6 @@
       <category term="捷径" scheme="https://87xl.cn/tags/%E6%8D%B7%E5%BE%84/"/>
     
       <category term="规则" scheme="https://87xl.cn/tags/%E8%A7%84%E5%88%99/"/>
-    
-      <category term="js脚本" scheme="https://87xl.cn/tags/js%E8%84%9A%E6%9C%AC/"/>
-    
-      <category term="jsbox" scheme="https://87xl.cn/tags/jsbox/"/>
     
       <category term="pin" scheme="https://87xl.cn/tags/pin/"/>
     
